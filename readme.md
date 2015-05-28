@@ -12,7 +12,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Frameworks
 
+- [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
 - [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - A powersfull server management framework.
+
+### SharePoint
+
+- [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) - API for SharePoint 2010, 2013 and Online.
+- [AutoSPInstaller](https://autospinstaller.codeplex.com/) - Automated SharePoint 2010/2013 installation script.
 
 ## Resources
 
