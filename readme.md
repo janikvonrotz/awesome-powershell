@@ -30,6 +30,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) - API for SharePoint 2010, 2013 and Online.
 - [AutoSPInstaller](https://autospinstaller.codeplex.com/) - Automated SharePoint 2010/2013 installation script.
 
+### Webserver
+
+- [PoSH Server](http://www.poshserver.net/) - Secure, flexible and lightweight web server to meet your requirements.
+
 ## Resources
 
 ### Blogs
