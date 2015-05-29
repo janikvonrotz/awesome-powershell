@@ -6,6 +6,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Modules
 
+### IDE
+
+- [PowerGui](http://en.community.dell.com/techcenter/powergui/w/wiki) - Powerfull IDE to execute scripts local and remote.
+- [PowerShell Plus](https://www.idera.com/productssolutions/freetools/powershellplus) - An all in one IDE.
+
+### Package Managers
+
+- [PsGet](http://psget.net/) - Set of commands to install modules from central directory, local file or from the web.
+
 ### Security
 
 - [File System Security](https://gallery.technet.microsoft.com/scriptcenter/1abd77a5-9c0b-4a2b-acef-90dbb2b84e85) - Allows a much easier management of permissions on files and folders.
@@ -13,8 +22,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Frameworks
 
 - [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
-- [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - A powersfull server management framework.
-
+- [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - A powerfull server management framework.
+- [PSCX ](https://pscx.codeplex.com/) - Useful set of additional cmdlets
+ 
 ### SharePoint
 
 - [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) - API for SharePoint 2010, 2013 and Online.
@@ -23,6 +33,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Resources
 
 ### Blogs
+
 
 - [Hey, Scripting Guy! Blog](http://blogs.technet.com/b/heyscriptingguy/) - Popular Microsoft blog.
 - [Learn Powershell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox aka the Scripting Guy.
