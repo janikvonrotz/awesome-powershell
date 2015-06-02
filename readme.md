@@ -39,5 +39,5 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Blogs
 
 - [Hey, Scripting Guy! Blog](http://blogs.technet.com/b/heyscriptingguy/) - Popular Microsoft blog.
-- [Learn Powershell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox aka the Scripting Guy.
+- [Learn Powershell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox who moderated for the Scripting Guy.
 - [PowerShellMagazine](http://www.powershellmagazine.com/) - Awesome magazine.
