@@ -6,6 +6,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Modules
 
+### Frameworks
+
+- [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
+- [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - A powerfull server management framework.
+- [PSCX ](https://pscx.codeplex.com/) - Useful set of additional cmdlets
+
 ### IDE
 
 - [PowerGui](http://en.community.dell.com/techcenter/powergui/w/wiki) - Powerfull IDE to execute scripts local and remote.
@@ -18,17 +24,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Security
 
 - [File System Security](https://gallery.technet.microsoft.com/scriptcenter/1abd77a5-9c0b-4a2b-acef-90dbb2b84e85) - Allows a much easier management of permissions on files and folders.
+- [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - A module used to aid a reverse engineer.
+- [PowerTools](https://github.com/Veil-Framework/PowerTools) - Collection of projects with a focus on offensive operations.
 
-### Frameworks
-
-- [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
-- [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - A powerfull server management framework.
-- [PSCX ](https://pscx.codeplex.com/) - Useful set of additional cmdlets
- 
 ### SharePoint
 
-- [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) - API for SharePoint 2010, 2013 and Online.
 - [AutoSPInstaller](https://autospinstaller.codeplex.com/) - Automated SharePoint 2010/2013 installation script.
+- [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) - API for SharePoint 2010, 2013 and Online.
 
 ### Webserver
 
