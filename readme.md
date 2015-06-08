@@ -6,6 +6,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Modules
 
+* [Frameworks](#frameworks)
+* [IDE](#ide)
+* [Package Managers](#package-managers)
+* [Security](#security)
+* [SharePoint](#sharepoint)
+* [Webserver](#webserver)
+
 ### Frameworks
 
 - [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
@@ -37,6 +44,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PoSH Server](http://www.poshserver.net/) - Secure, flexible and lightweight web server to meet your requirements.
 
 ## Resources
+
+* [Blogs](#blogs)
 
 ### Blogs
 
