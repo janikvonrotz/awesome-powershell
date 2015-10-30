@@ -11,6 +11,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Package Managers](#package-managers)
 * [Security](#security)
 * [SharePoint](#sharepoint)
+* [Testing](#testing)
 * [Webserver](#webserver)
 
 ### Frameworks
@@ -38,6 +39,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [AutoSPInstaller](https://autospinstaller.codeplex.com/) - Automated SharePoint 2010/2013 installation script.
 - [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) - API for SharePoint 2010, 2013 and Online.
+
+### Testing
+
+- [Pester](https://github.com/pester/Pester) - Powershell BDD style testing framework
 
 ### Webserver
 
