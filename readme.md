@@ -30,6 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Package Managers
 
 - [PsGet](http://psget.net/) - Set of commands to install modules from central directory, local file or from the web.
+- [chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
 
 ### Security
 
