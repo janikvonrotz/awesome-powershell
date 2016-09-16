@@ -18,7 +18,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   * [Testing](#testing)
   * [Webserver](#webserver)
 * [Resources](#resources)
-  * * [Blogs](#blogs)
+  * [Blogs](#blogs)
 
 ## Modules
 
