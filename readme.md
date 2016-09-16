@@ -1,5 +1,7 @@
 # Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[<img src="https://github.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" align="right" width="80">](https://msdn.microsoft.com/en-us/powershell/)
+
 > A curated list of delightful PowerShell [packages](#modules) and [resources](#resources).
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
