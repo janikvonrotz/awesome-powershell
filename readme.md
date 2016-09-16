@@ -6,16 +6,21 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-## Modules
+## Table of Content
 
-* [Frameworks](#frameworks)
-* [IDE](#ide)
-* [Package Managers](#package-managers)
-* [Security](#security)
-* [Themes](#themes)
-* [SharePoint](#sharepoint)
-* [Testing](#testing)
-* [Webserver](#webserver)
+* [Modules](#modules)
+  * [Frameworks](#frameworks)
+  * [IDE](#ide)
+  * [Package Managers](#package-managers)
+  * [Security](#security)
+  * [Themes](#themes)
+  * [SharePoint](#sharepoint)
+  * [Testing](#testing)
+  * [Webserver](#webserver)
+* [Resources](#resources)
+  * * [Blogs](#blogs)
+
+## Modules
 
 ### Frameworks
 
@@ -66,8 +71,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`). 
 
 ## Resources
-
-* [Blogs](#blogs)
 
 ### Blogs
 
