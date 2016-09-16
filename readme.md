@@ -26,18 +26,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
 - [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - A powerfull server management framework.
-- [PSCX ](https://pscx.codeplex.com/) - Useful set of additional cmdlets
+- [PSCX](https://pscx.codeplex.com/) - Useful set of additional cmdlets.
 
 ### IDE
 
 - [PowerGui](http://en.community.dell.com/techcenter/powergui/w/wiki) - Powerfull IDE to execute scripts local and remote.
 - [PowerShell Plus](https://www.idera.com/productssolutions/freetools/powershellplus) - An all in one IDE.
-- [Powershell Studio](https://www.sapien.com/software/powershell_studio) - Probably the most powerful and most expensive powershell IDE, with high DPI support and updates regularly
+- [Powershell Studio](https://www.sapien.com/software/powershell_studio) - Probably the most powerful and most expensive powershell IDE, with high DPI support and updates regularly.
 
 ### Package Managers
 
 - [PsGet](http://psget.net/) - Set of commands to install modules from central directory, local file or from the web.
-- [chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
+- [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
 
 ### Security
 
@@ -47,8 +47,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Themes
 
-- [oh-my-posh](https://github.com/JanJoris/oh-my-posh) - tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme)
-- [Powerline](https://github.com/Jaykul/PowerLine) - PowerShell Classes for richer output and prompts 
+- [Oh-My-Posh](https://github.com/JanJoris/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme).
+- [Powerline](https://github.com/Jaykul/PowerLine) - PowerShell Classes for richer output and prompts.
 
 ### SharePoint
 
@@ -57,7 +57,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Testing
 
-- [Pester](https://github.com/pester/Pester) - Powershell BDD style testing framework
+- [Pester](https://github.com/pester/Pester) - Powershell BDD style testing framework.
 
 ### Webserver
 
