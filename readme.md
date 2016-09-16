@@ -24,6 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [PowerGui](http://en.community.dell.com/techcenter/powergui/w/wiki) - Powerfull IDE to execute scripts local and remote.
 - [PowerShell Plus](https://www.idera.com/productssolutions/freetools/powershellplus) - An all in one IDE.
+- [Powershell Studio](https://www.sapien.com/software/powershell_studio) - Probably the most powerful and most expensive powershell IDE, with high DPI support and updates regularly
 
 ### Package Managers
 
