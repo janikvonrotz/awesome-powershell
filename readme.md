@@ -10,6 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [IDE](#ide)
 * [Package Managers](#package-managers)
 * [Security](#security)
+* [Themes](#themes)
 * [SharePoint](#sharepoint)
 * [Testing](#testing)
 * [Webserver](#webserver)
@@ -35,6 +36,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [File System Security](https://gallery.technet.microsoft.com/scriptcenter/1abd77a5-9c0b-4a2b-acef-90dbb2b84e85) - Allows a much easier management of permissions on files and folders.
 - [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - A module used to aid a reverse engineer.
 - [PowerTools](https://github.com/Veil-Framework/PowerTools) - Collection of projects with a focus on offensive operations.
+
+### Themes
+
+- [oh-my-posh](https://github.com/JanJoris/oh-my-posh) - tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme)
+- [Powerline](https://github.com/Jaykul/PowerLine) - PowerShell Classes for richer output and prompts 
 
 ### SharePoint
 
