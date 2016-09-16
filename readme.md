@@ -12,6 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   * [Frameworks](#frameworks)
   * [IDE](#ide)
   * [Package Managers](#package-managers)
+  * [Build Tools](#build-tools)
   * [Security](#security)
   * [Themes](#themes)
   * [SharePoint](#sharepoint)
@@ -38,6 +39,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [PsGet](http://psget.net/) - Set of commands to install modules from central directory, local file or from the web.
 - [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
+
+## Build Tools
+
+* [psake](https://github.com/psake/psake) - A build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).
+* [Invoke-Build](https://github.com/nightroman/Invoke-Build) - A build and test automation tool inspired by psake
+* [PSDeploy](https://github.com/RamblingCookieMonster/PSDeploy) - A module built for the purpose of simplifying the deployment of files and directories
+* [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - A variety of helper functions for CI/CD scenarios
 
 ### Security
 
