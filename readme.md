@@ -68,9 +68,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Resources
 
 * [Blogs](#blogs)
+* [Code and Package Repositories
+](#Code-and-Package-Repositories)
 
 ### Blogs
 
 - [Hey, Scripting Guy! Blog](http://blogs.technet.com/b/heyscriptingguy/) - Popular Microsoft blog.
 - [Learn Powershell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox who moderated for the Scripting Guy.
 - [PowerShellMagazine](http://www.powershellmagazine.com/) - Awesome magazine.
+
+### Code and Package Repositories
+
+- [GitHub](https://github.com/search?l=powershell&q=stars%3A%3E1&s=stars&type=Repositories) - Looking for an Open Source PowerShell project? It's probably here.
+- [PowerShell Code Repository](http://poshcode.org/) - Wide variety of PowerShell code from snippets to modules
+- [PowerShell Gallery](https://www.powershellgallery.com/) - Offical PowerShell package repository, used by PowerShellGet
+- [TechNet Gallery](https://gallery.technet.microsoft.com/) - Wide variety of PowerShell code from snippets to modules
