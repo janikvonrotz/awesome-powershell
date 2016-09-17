@@ -97,6 +97,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [posh-git](https://github.com/dahlbyk/posh-git) - A set of PowerShell scripts which provide Git/PowerShell integration.
 - [PSReadLine](https://github.com/lzybkr/PSReadLine) - A bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
+- [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) - A PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
 - [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) implementation for powershell.
 - [Zlocation](https://github.com/vors/ZLocation) - [z.sh](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
