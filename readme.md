@@ -74,3 +74,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Hey, Scripting Guy! Blog](http://blogs.technet.com/b/heyscriptingguy/) - Popular Microsoft blog.
 - [Learn Powershell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox who moderated for the Scripting Guy.
 - [PowerShellMagazine](http://www.powershellmagazine.com/) - Awesome magazine.
+
+## Communities
+
+- [PowerShell.com](http://powershell.com/cs/) - Forums, blog posts, and more
+- [PowerShell.org](http://powershell.org/) - Forums, summits, community blog posts, and more
+- [/r/PowerShell](http://www.reddit.com/r/powershell) - Reddit PowerShell community
+- [Slack PowerShell team](http://slack.poshcode.org/) - Large chat room dedicated to PowerShell. Bridged with #PowerShell on irc.freenode.net.
+- [Twitter #PowerShell](https://twitter.com/search?q=%23PowerShell&src=hash) - Vibrant PowerShell community; great way to keep up with news and blog content
