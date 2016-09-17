@@ -44,6 +44,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ISE Steroids](http://www.powertheshell.com/isesteroids/) - An add-on for the PowerShell ISE which provides a rich set of additional features to complete the ISE development experience.
 - [PowerGui](http://en.community.dell.com/techcenter/powergui/w/wiki) - A powerful IDE for editing and executing scripts locally and remotely.
 - [PowerShell Plus](https://www.idera.com/productssolutions/freetools/powershellplus) - An all in one IDE.
+- [SublimeText package](https://github.com/SublimeText/PowerShell) - PowerShell language support for Sublime Text.
+- [Atom package](https://github.com/jugglingnutcase/language-powershell) - PowerShell language support for Atom.
 
 ### Package Managers
 
