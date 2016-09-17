@@ -10,8 +10,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Modules](#modules)
   * [Frameworks](#frameworks)
-  * [IDE](#ide)
+  * [Editors and IDEs](#editors-and-ides)
   * [Package Managers](#package-managers)
+  * [Build Tools](#build-tools)
   * [Security](#security)
   * [Themes](#themes)
   * [SharePoint](#sharepoint)
@@ -29,16 +30,27 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - A powerfull server management framework.
 - [PSCX](https://pscx.codeplex.com/) - Useful set of additional cmdlets.
 
-### IDE
+### Editors and IDEs
 
-- [PowerGui](http://en.community.dell.com/techcenter/powergui/w/wiki) - Powerfull IDE to execute scripts local and remote.
+- [PowerShell Studio](https://www.sapien.com/software/powershell_studio) - A powerful PowerShell IDE with module, help, and user interface development tools, high DPI support and regular updates.
+- [PowerShell for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) - Provides IntelliSense, code navigations, script analysis, script debugging, and more for the [Visual Studio Code](https://code.visualstudio.com) editor.
+- [PoshTools for Visual Studio](https://github.com/adamdriscoll/PoshTools) - Provides IntelliSense, script debugging, and Pester testing support for PowerShell to Visual Studio.
+- [PowerShell ISE](https://msdn.microsoft.com/en-us/powershell/scripting/core-powershell/ise/using-the-windows-powershell-ise) - An official PowerShell development environment included with Microsoft Windows.
+- [ISE Steroids](http://www.powertheshell.com/isesteroids/) - An add-on for the PowerShell ISE which provides a rich set of additional features to complete the ISE development experience.
+- [PowerGui](http://en.community.dell.com/techcenter/powergui/w/wiki) - A powerful IDE for editing and executing scripts locally and remotely.
 - [PowerShell Plus](https://www.idera.com/productssolutions/freetools/powershellplus) - An all in one IDE.
-- [Powershell Studio](https://www.sapien.com/software/powershell_studio) - Probably the most powerful and most expensive powershell IDE, with high DPI support and updates regularly.
 
 ### Package Managers
 
 - [PsGet](http://psget.net/) - Set of commands to install modules from central directory, local file or from the web.
 - [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
+
+### Build Tools
+
+* [psake](https://github.com/psake/psake) - A build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).
+* [Invoke-Build](https://github.com/nightroman/Invoke-Build) - A build and test automation tool inspired by psake
+* [PSDeploy](https://github.com/RamblingCookieMonster/PSDeploy) - A module built for the purpose of simplifying multiple types of deployments
+* [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - A variety of helper functions for CI/CD scenarios
 
 ### Security
 
