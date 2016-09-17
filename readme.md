@@ -19,6 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   * [Webserver](#webserver)
 * [Resources](#resources)
   * [Blogs](#blogs)
+  * [Videos](#videos)
 
 ## Modules
 
@@ -77,3 +78,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Hey, Scripting Guy! Blog](http://blogs.technet.com/b/heyscriptingguy/) - Popular Microsoft blog.
 - [Learn Powershell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox who moderated for the Scripting Guy.
 - [PowerShellMagazine](http://www.powershellmagazine.com/) - Awesome magazine.
+
+### Videos
+
+- [Getting Started With PowerShell 3.0 Jump Start](https://mva.microsoft.com/en-US/training-courses/getting-started-with-powershell-30-jump-start-8276) - Jump starts series are for IT professionals with no previous experience with PowerShell, and want to learn it fast.
+- [Advanced Tools & Scripting with PowerShell 3.0](https://channel9.msdn.com/Series/advpowershell3) - IT pros, take this advanced PowerShell course to find out how to turn your real time management and automation scripts into useful reusable tools and cmdlets.
+- [What's New in PowerShell v5](https://mva.microsoft.com/en-US/training-courses/whats-new-in-powershell-v5-16434) - A through description on some of the exciting new features in PowerShell version 5.0.
+- [PowerShell Open Source Project](https://channel9.msdn.com/series/PowerShell-Open-Source-Project) - A collection of videos thoroughly demonstrate how PowerShell open source project runs on Linux.
+- [PowerShell on Linux and Open Source](https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source) - A brief introduction to PowerShell open source project and how it runs on linux.
+- [PowerShell](https://channel9.msdn.com/Shows/MsftPowerShell) - This show will include videos talking about the PowerShell automation platform, Desired State Configuration (DSC), infrastructure as code, and related concepts!! These videos are created by Trevor Sullivan, a Microsoft MVP for Windows PowerShell.
