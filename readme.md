@@ -43,7 +43,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Themes
 
 - [oh-my-posh](https://github.com/JanJoris/oh-my-posh) - tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme)
-- [Powerline](https://github.com/Jaykul/PowerLine) - PowerShell Classes for richer output and prompts 
+- [Powerline](https://github.com/Jaykul/PowerLine) - PowerShell Classes for richer output and prompts
 
 ### SharePoint
 
@@ -63,14 +63,27 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PSReadLine](https://github.com/lzybkr/PSReadLine) - A bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
 - [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) implementation for powershell.
 - [Zlocation](https://github.com/vors/ZLocation) - [z.sh](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
-- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`). 
+- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
 
 ## Resources
 
 * [Blogs](#blogs)
+* [Videos](#videos-and-podcasts)
 
 ### Blogs
 
 - [Hey, Scripting Guy! Blog](http://blogs.technet.com/b/heyscriptingguy/) - Popular Microsoft blog.
 - [Learn Powershell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox who moderated for the Scripting Guy.
 - [PowerShellMagazine](http://www.powershellmagazine.com/) - Awesome magazine.
+
+### Videos and Podcasts
+
+- [Getting Started with PowerShell 3.0](http://channel9.msdn.com/Series/GetStartedPowerShell3) - Classic series from Jeffrey Snover and Jason Helmick
+- [Advanced Tools and Scripting with PowerShell 3.0](http://channel9.msdn.com/series/advpowershell3) - Follow-up to Getting Started with PowerShell 3.0
+- [Advanced PowerShell Desired State Configuration and Custom Resources](https://channel9.msdn.com/Series/Advanced-PowerShell-Desired-State-Configuration-DSC-and-Custom-Resources) - More from Jeffrey Snover and Jason Helmick
+- [Using PowerShell for Active Directory](http://www.microsoftvirtualacademy.com/training-courses/using-powershell-for-active-directory) - From Ashley McGlone and Jason Helmick
+- [PowerShell Summit NA 2015 Sessions](https://www.youtube.com/playlist?list=PLfeA8kIs7CochwcgX9zOWxh4IL3GoG05P)
+- [PowerShell + DevOps Global Summit 2016 Sessions](https://www.youtube.com/playlist?list=PLfeA8kIs7Coc1Jn5hC4e_XgbFUaS5jY2i)
+- [PowerShell Conference EU 2016 Sessions](https://www.youtube.com/c/powershellconferenceeu)
+- [PowerScripting Podcast](https://powershell.org/podcast/) - With Jon Walz and Hal Rottenberg
+
