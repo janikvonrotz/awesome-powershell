@@ -84,7 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PSReadLine](https://github.com/lzybkr/PSReadLine) - A bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
 - [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) implementation for powershell.
 - [Zlocation](https://github.com/vors/ZLocation) - [z.sh](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
-- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`). 
+- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
 
 ## Resources
 
@@ -102,3 +102,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PowerShell Open Source Project](https://channel9.msdn.com/series/PowerShell-Open-Source-Project) - A collection of videos thoroughly demonstrate how PowerShell open source project runs on Linux.
 - [PowerShell on Linux and Open Source](https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source) - A brief introduction to PowerShell open source project and how it runs on linux.
 - [PowerShell](https://channel9.msdn.com/Shows/MsftPowerShell) - This show will include videos talking about the PowerShell automation platform, Desired State Configuration (DSC), infrastructure as code, and related concepts!! These videos are created by Trevor Sullivan, a Microsoft MVP for Windows PowerShell.
+
+## Communities
+
+- [PowerShell.com](http://powershell.com/cs/) - Forums, blog posts, and more
+- [PowerShell.org](http://powershell.org/) - Forums, summits, community blog posts, and more
+- [/r/PowerShell](http://www.reddit.com/r/powershell) - Reddit PowerShell community
+- [Slack PowerShell team](http://slack.poshcode.org/) - Large chat room dedicated to PowerShell. Bridged with #PowerShell on irc.freenode.net.
+- [Twitter #PowerShell](https://twitter.com/search?q=%23PowerShell&src=hash) - Vibrant PowerShell community; great way to keep up with news and blog content.
