@@ -32,6 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
 - [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - A powerfull server management framework.
 - [PSCX](https://pscx.codeplex.com/) - Useful set of additional cmdlets.
+- [PlatyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown.
 
 ### Editors and IDEs
 
