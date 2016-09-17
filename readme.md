@@ -21,6 +21,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Resources](#resources)
   * [Blogs](#blogs)
   * [Videos](#videos)
+  * [Communities](#Communities)
+  * [Code and Package Repositories](#code-and-package-repositories)
 
 ## Modules
 
@@ -110,3 +112,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [/r/PowerShell](http://www.reddit.com/r/powershell) - Reddit PowerShell community
 - [Slack PowerShell team](http://slack.poshcode.org/) - Large chat room dedicated to PowerShell. Bridged with #PowerShell on irc.freenode.net.
 - [Twitter #PowerShell](https://twitter.com/search?q=%23PowerShell&src=hash) - Vibrant PowerShell community; great way to keep up with news and blog content.
+
+### Code and Package Repositories
+
+- [GitHub](https://github.com/search?l=powershell&q=stars%3A%3E1&s=stars&type=Repositories) - Looking for an Open Source PowerShell project? It's probably here.
+- [PowerShell Code Repository](http://poshcode.org/) - Wide variety of PowerShell code from snippets to modules
+- [PowerShell Gallery](https://www.powershellgallery.com/) - Offical PowerShell package repository, used by PowerShellGet
+- [TechNet Gallery](https://gallery.technet.microsoft.com/) - Wide variety of PowerShell code from snippets to modules
