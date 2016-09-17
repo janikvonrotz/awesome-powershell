@@ -16,6 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   * [Security](#security)
   * [Themes](#themes)
   * [SharePoint](#sharepoint)
+  * [SQL Server](#sql-server)
   * [Testing](#testing)
   * [Webserver](#webserver)
 * [Resources](#resources)
@@ -69,6 +70,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [AutoSPInstaller](https://autospinstaller.codeplex.com/) - Automated SharePoint 2010/2013 installation script.
 - [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) - API for SharePoint 2010, 2013 and Online.
+
+### SQL Server
+
+- [dbareports](https://dbareports.io) - Gather, store and display your SQL Server estate data. 
+- [dbatools](https://dbatools.io) - Instance migrations and best practice implementations.
 
 ### Testing
 
