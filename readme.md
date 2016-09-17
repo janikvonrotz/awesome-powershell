@@ -19,6 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   * [SQL Server](#sql-server)
   * [Testing](#testing)
   * [Webserver](#webserver)
+  * [Misc](#misc)
 * [Resources](#resources)
   * [Blogs](#blogs)
   * [Videos](#videos)
