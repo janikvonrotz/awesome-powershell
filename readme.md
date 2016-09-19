@@ -11,10 +11,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Blogs](#blogs)
 * [Build Tools](#build-tools)
 * [Code and Package Repositories](#code-and-package-repositories)
-* [Commandline Productivity](#commandline-productivity)
+* [Commandline Productivity](#Commandline-productivity)
 * [Communities](#communities)
-* [Editors and IDEs](#editors-and-ides)
 * [Frameworks](#frameworks)
+* [Editors and IDEs](#editors-and-ides)
+* [Misc](#misc)
 * [Package Managers](#package-managers)
 * [Security](#security)
 * [SharePoint](#sharepoint)
@@ -33,30 +34,31 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Build Tools
 
 * [psake](https://github.com/psake/psake) - A build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).
-* [Invoke-Build](https://github.com/nightroman/Invoke-Build) - A build and test automation tool inspired by psake
-* [PSDeploy](https://github.com/RamblingCookieMonster/PSDeploy) - A module built for the purpose of simplifying multiple types of deployments
-* [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - A variety of helper functions for CI/CD scenarios
+* [Invoke-Build](https://github.com/nightroman/Invoke-Build) - A build and test automation tool inspired by psake.
+* [PSDeploy](https://github.com/RamblingCookieMonster/PSDeploy) - A module built for the purpose of simplifying multiple types of deployments.
+* [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - A variety of helper functions for CI/CD scenarios.
 
 ## Code and Package Repositories
 
 - [GitHub](https://github.com/search?l=powershell&q=stars%3A%3E1&s=stars&type=Repositories) - Looking for an Open Source PowerShell project? It's probably here.
-- [PowerShell Code Repository](http://poshcode.org/) - Wide variety of PowerShell code from snippets to modules
-- [PowerShell Gallery](https://www.powershellgallery.com/) - Offical PowerShell package repository, used by PowerShellGet
-- [TechNet Gallery](https://gallery.technet.microsoft.com/) - Wide variety of PowerShell code from snippets to modules
+- [PowerShell Code Repository](http://poshcode.org/) - Wide variety of PowerShell code from snippets to modules.
+- [PowerShell Gallery](https://www.powershellgallery.com/) - Offical PowerShell package repository, used by PowerShellGet.
+- [TechNet Gallery](https://gallery.technet.microsoft.com/) - Wide variety of PowerShell code from snippets to modules.
 
 ## Commandline Productivity
 
 - [posh-git](https://github.com/dahlbyk/posh-git) - A set of PowerShell scripts which provide Git/PowerShell integration.
 - [PSReadLine](https://github.com/lzybkr/PSReadLine) - A bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
+- [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) - A PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
 - [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) implementation for powershell.
 - [Zlocation](https://github.com/vors/ZLocation) - [z.sh](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
 
 ## Communities
 
-- [PowerShell.com](http://powershell.com/cs/) - Forums, blog posts, and more
-- [PowerShell.org](http://powershell.org/) - Forums, summits, community blog posts, and more
-- [/r/PowerShell](http://www.reddit.com/r/powershell) - Reddit PowerShell community
+- [PowerShell.com](http://powershell.com/cs/) - Forums, blog posts, and more.
+- [PowerShell.org](http://powershell.org/) - Forums, summits, community blog posts, and more.
+- [/r/PowerShell](http://www.reddit.com/r/powershell) - Reddit PowerShell community.
 - [Slack PowerShell team](http://slack.poshcode.org/) - Large chat room dedicated to PowerShell. Bridged with #PowerShell on irc.freenode.net.
 - [Twitter #PowerShell](https://twitter.com/search?q=%23PowerShell&src=hash) - Vibrant PowerShell community; great way to keep up with news and blog content.
 
@@ -69,12 +71,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ISE Steroids](http://www.powertheshell.com/isesteroids/) - An add-on for the PowerShell ISE which provides a rich set of additional features to complete the ISE development experience.
 - [PowerGui](http://en.community.dell.com/techcenter/powergui/w/wiki) - A powerful IDE for editing and executing scripts locally and remotely.
 - [PowerShell Plus](https://www.idera.com/productssolutions/freetools/powershellplus) - An all in one IDE.
+- [SublimeText package](https://github.com/SublimeText/PowerShell) - PowerShell language support for Sublime Text.
+- [Atom package](https://github.com/jugglingnutcase/language-powershell) - PowerShell language support for Atom.
 
 ## Frameworks
 
 - [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
 - [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - A powerfull server management framework.
 - [PSCX](https://pscx.codeplex.com/) - Useful set of additional cmdlets.
+- [PlatyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown.
+
+## Misc
+
+- [poke](https://github.com/oising/poke) - crazy cool reflection module for powershell.
+  Explore and invoke private APIs like nobody is watching.
+  Useful for security research, testing and quick hacks.
 
 ## Package Managers
 
@@ -86,6 +97,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [File System Security](https://gallery.technet.microsoft.com/scriptcenter/1abd77a5-9c0b-4a2b-acef-90dbb2b84e85) - Allows a much easier management of permissions on files and folders.
 - [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - A module used to aid a reverse engineer.
 - [PowerTools](https://github.com/Veil-Framework/PowerTools) - Collection of projects with a focus on offensive operations.
+- [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - popular live disk forensics platform for windows.
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - post-exploitation framework.
+- [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - post-exploitation agent.
+- [PSReflect](https://github.com/mattifestation/PSReflect) - easily define in-memory enums, structs, and Win32 functions in PowerShell.
+  Useful for attacks, [example](https://github.com/FuzzySecurity/PowerShell-Suite/tree/master/Bypass-UAC).
 
 ## SharePoint
 
@@ -117,7 +133,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Webserver
 
-- [Flancy](https://github.com/toenuff/flancy) - A web microframework for Windows PowerShell
-- [NancyPS](https://github.com/Jaykul/NancyPS) - Nancy, self-hosted in PowerShell, with script method handlers
+- [Flancy](https://github.com/toenuff/flancy) - A web microframework for Windows PowerShell.
+- [NancyPS](https://github.com/Jaykul/NancyPS) - Nancy, self-hosted in PowerShell, with script method handlers.
 - [PoSH Server](http://www.poshserver.net/) - Secure, flexible and lightweight web server to meet your requirements.
-- [WebCommander](https://github.com/vmware/webcommander) - Run scripts and view results, in a friendly web GUI or via a web service
+- [WebCommander](https://github.com/vmware/webcommander) - Run scripts and view results, in a friendly web GUI or via a web service.
