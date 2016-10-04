@@ -17,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Editors and IDEs](#editors-and-ides)
 * [Misc](#misc)
 * [Package Managers](#package-managers)
+* [Parallel Processing](#parallel-processing)
 * [Security](#security)
 * [SharePoint](#sharepoint)
 * [SQL Server](#sql-server)
@@ -24,7 +25,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Themes](#themes)
 * [Videos](#videos)
 * [Webserver](#webserver)
-* [Parallel Processing](#parallel-processing)
 
 ## Blogs
 
@@ -93,6 +93,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PsGet](http://psget.net/) - Set of commands to install modules from central directory, local file or from the web.
 - [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
 
+## Parallel Processing
+
+- [PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSjobs with greater performance and less overhead to run commands in the background
+- [Invoke-Parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) - This function will take in a script or scriptblock, and run it against specified objects(s) in parallel
+
 ## Security
 
 - [File System Security](https://gallery.technet.microsoft.com/scriptcenter/1abd77a5-9c0b-4a2b-acef-90dbb2b84e85) - Allows a much easier management of permissions on files and folders.
@@ -138,8 +143,3 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [NancyPS](https://github.com/Jaykul/NancyPS) - Nancy, self-hosted in PowerShell, with script method handlers.
 - [PoSH Server](http://www.poshserver.net/) - Secure, flexible and lightweight web server to meet your requirements.
 - [WebCommander](https://github.com/vmware/webcommander) - Run scripts and view results, in a friendly web GUI or via a web service.
-
-## Parallel Processing
-
-- [PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSjobs with greater performance and less overhead to run commands in the background
-- [Invoke-Parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) - This function will take in a script or scriptblock, and run it against specified objects(s) in parallel
