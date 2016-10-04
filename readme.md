@@ -17,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Editors and IDEs](#editors-and-ides)
 * [Misc](#misc)
 * [Package Managers](#package-managers)
+* [Parallel Processing](#parallel-processing)
 * [Security](#security)
 * [SharePoint](#sharepoint)
 * [SQL Server](#sql-server)
@@ -91,6 +92,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [PsGet](http://psget.net/) - Set of commands to install modules from central directory, local file or from the web.
 - [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
+
+## Parallel Processing
+
+- [PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSjobs with greater performance and less overhead to run commands in the background
+- [Invoke-Parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) - This function will take in a script or scriptblock, and run it against specified objects(s) in parallel
 
 ## Security
 
