@@ -136,6 +136,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PowerShell](https://channel9.msdn.com/Shows/MsftPowerShell) - This show will include videos talking about the PowerShell automation platform, Desired State Configuration (DSC), infrastructure as code, and related concepts!! These videos are created by Trevor Sullivan, a Microsoft MVP for Windows PowerShell.
 
 ## Podcasts
+
 - [PowerScripting](https://powershell.org/podcast/) - A weekly show run by Jon Walz and Hal Rottenberg
 
 ## Webserver
