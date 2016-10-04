@@ -23,13 +23,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Testing](#testing)
 * [Themes](#themes)
 * [Videos](#videos)
+* [Podcasts](#podcasts)
 * [Webserver](#webserver)
 
 ## Blogs
 
+- [Windows PowerShell Blog](https://blogs.msdn.microsoft.com/powershell/) - Official PowerShell Team Blog
 - [Hey, Scripting Guy! Blog](http://blogs.technet.com/b/heyscriptingguy/) - Popular Microsoft blog.
 - [Learn Powershell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox who moderated for the Scripting Guy.
 - [PowerShellMagazine](http://www.powershellmagazine.com/) - Awesome magazine.
+- [Doug Finke](https://dfinke.github.io/#blog) - Author of 'PowerShell for Developers'
+- [Mike F. Robbins](http://mikefrobbins.com/) - Microsoft MVP. SAPIEN Tech MVP. Co-author of Windows PowerShell TFM 4th Edition.
 
 ## Build Tools
 
@@ -130,6 +134,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PowerShell Open Source Project](https://channel9.msdn.com/series/PowerShell-Open-Source-Project) - A collection of videos thoroughly demonstrate how PowerShell open source project runs on Linux.
 - [PowerShell on Linux and Open Source](https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source) - A brief introduction to PowerShell open source project and how it runs on linux.
 - [PowerShell](https://channel9.msdn.com/Shows/MsftPowerShell) - This show will include videos talking about the PowerShell automation platform, Desired State Configuration (DSC), infrastructure as code, and related concepts!! These videos are created by Trevor Sullivan, a Microsoft MVP for Windows PowerShell.
+
+## Podcasts
+- [PowerScripting](https://powershell.org/podcast/) - A weekly show run by Jon Walz and Hal Rottenberg
 
 ## Webserver
 
