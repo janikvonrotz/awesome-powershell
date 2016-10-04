@@ -83,7 +83,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Misc
 
-- [poke](https://github.com/oising/poke) - crazy cool reflection module for powershell.
+- [poke](https://github.com/oising/poke) - Crazy cool reflection module for powershell.
   Explore and invoke private APIs like nobody is watching.
   Useful for security research, testing and quick hacks.
 
@@ -97,10 +97,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [File System Security](https://gallery.technet.microsoft.com/scriptcenter/1abd77a5-9c0b-4a2b-acef-90dbb2b84e85) - Allows a much easier management of permissions on files and folders.
 - [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - A module used to aid a reverse engineer.
 - [PowerTools](https://github.com/Veil-Framework/PowerTools) - Collection of projects with a focus on offensive operations.
-- [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - popular live disk forensics platform for windows.
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - post-exploitation framework.
-- [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - post-exploitation agent.
-- [PSReflect](https://github.com/mattifestation/PSReflect) - easily define in-memory enums, structs, and Win32 functions in PowerShell.
+- [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Popular live disk forensics platform for windows.
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - Post-exploitation framework.
+- [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - Post-exploitation agent.
+- [PSReflect](https://github.com/mattifestation/PSReflect) - Easily define in-memory enums, structs, and Win32 functions in PowerShell.
   Useful for attacks, [example](https://github.com/FuzzySecurity/PowerShell-Suite/tree/master/Bypass-UAC).
 
 ## SharePoint
