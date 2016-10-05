@@ -18,6 +18,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Misc](#misc)
 * [Package Managers](#package-managers)
 * [Parallel Processing](#parallel-processing)
+* [Podcasts](#podcasts)
 * [Security](#security)
 * [SharePoint](#sharepoint)
 * [SQL Server](#sql-server)
@@ -28,9 +29,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Blogs
 
+- [Windows PowerShell Blog](https://blogs.msdn.microsoft.com/powershell/) - Official PowerShell Team Blog
 - [Hey, Scripting Guy! Blog](http://blogs.technet.com/b/heyscriptingguy/) - Popular Microsoft blog.
 - [Learn Powershell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox who moderated for the Scripting Guy.
 - [PowerShellMagazine](http://www.powershellmagazine.com/) - Awesome magazine.
+- [Doug Finke](https://dfinke.github.io/#blog) - Author of 'PowerShell for Developers'
+- [Mike F. Robbins](http://mikefrobbins.com/) - Microsoft MVP. SAPIEN Tech MVP. Co-author of Windows PowerShell TFM 4th Edition.
 
 ## Build Tools
 
@@ -97,6 +101,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSjobs with greater performance and less overhead to run commands in the background
 - [Invoke-Parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) - This function will take in a script or scriptblock, and run it against specified objects(s) in parallel
+
+## Podcasts
+
+- [PowerScripting](https://powershell.org/podcast/) - A weekly show run by Jon Walz and Hal Rottenberg
 
 ## Security
 
