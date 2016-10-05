@@ -18,13 +18,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Misc](#misc)
 * [Package Managers](#package-managers)
 * [Parallel Processing](#parallel-processing)
+* [Podcasts](#podcasts)
 * [Security](#security)
 * [SharePoint](#sharepoint)
 * [SQL Server](#sql-server)
 * [Testing](#testing)
 * [Themes](#themes)
 * [Videos](#videos)
-* [Podcasts](#podcasts)
 * [Webserver](#webserver)
 
 ## Blogs
@@ -102,6 +102,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSjobs with greater performance and less overhead to run commands in the background
 - [Invoke-Parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) - This function will take in a script or scriptblock, and run it against specified objects(s) in parallel
 
+## Podcasts
+
+- [PowerScripting](https://powershell.org/podcast/) - A weekly show run by Jon Walz and Hal Rottenberg
+
 ## Security
 
 - [File System Security](https://gallery.technet.microsoft.com/scriptcenter/1abd77a5-9c0b-4a2b-acef-90dbb2b84e85) - Allows a much easier management of permissions on files and folders.
@@ -140,10 +144,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PowerShell Open Source Project](https://channel9.msdn.com/series/PowerShell-Open-Source-Project) - A collection of videos thoroughly demonstrate how PowerShell open source project runs on Linux.
 - [PowerShell on Linux and Open Source](https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source) - A brief introduction to PowerShell open source project and how it runs on linux.
 - [PowerShell](https://channel9.msdn.com/Shows/MsftPowerShell) - This show will include videos talking about the PowerShell automation platform, Desired State Configuration (DSC), infrastructure as code, and related concepts!! These videos are created by Trevor Sullivan, a Microsoft MVP for Windows PowerShell.
-
-## Podcasts
-
-- [PowerScripting](https://powershell.org/podcast/) - A weekly show run by Jon Walz and Hal Rottenberg
 
 ## Webserver
 
