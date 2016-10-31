@@ -12,6 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Build Tools](#build-tools)
 * [Code and Package Repositories](#code-and-package-repositories)
 * [Commandline Productivity](#commandline-productivity)
+* [Providers](#providers)
 * [Communities](#communities)
 * [Frameworks](#frameworks)
 * [Editors and IDEs](#editors-and-ides)
@@ -58,6 +59,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) implementation for powershell.
 - [Zlocation](https://github.com/vors/ZLocation) - [z.sh](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
+
+## Providers
+
+- [redditps](https://github.com/manojlds/redditps) -  Reddit provider for Powershell - browse reddit from the CLI.
 
 ## Communities
 
