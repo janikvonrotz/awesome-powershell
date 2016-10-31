@@ -42,6 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Invoke-Build](https://github.com/nightroman/Invoke-Build) - A build and test automation tool inspired by psake.
 * [PSDeploy](https://github.com/RamblingCookieMonster/PSDeploy) - A module built for the purpose of simplifying multiple types of deployments.
 * [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - A variety of helper functions for CI/CD scenarios.
+* [YDeliver](https://github.com/manojlds/YDeliver) - Build and deployment framework aimed at .NET projects.
 
 ## Code and Package Repositories
 
