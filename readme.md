@@ -13,17 +13,17 @@
 * [Communities](#communities)
 * [Frameworks](#frameworks)
 * [Editors and IDEs](#editors-and-ides)
-* [Misc](#misc)
 * [Package Managers](#package-managers)
 * [Parallel Processing](#parallel-processing)
 * [Podcasts](#podcasts)
 * [Security](#security)
-* [SharePoint](#sharepoint)
-* [SQL Server](#sql-server)
 * [Testing](#testing)
 * [Themes](#themes)
 * [Videos](#videos)
 * [Webserver](#webserver)
+* [SharePoint](#sharepoint)
+* [SQL Server](#sql-server)
+* [Misc](#misc)
 
 ## Blogs
 
@@ -86,12 +86,6 @@
 - [PSCX](https://pscx.codeplex.com/) - Useful set of additional cmdlets.
 - [PlatyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown.
 
-## Misc
-
-- [poke](https://github.com/oising/poke) - Crazy cool reflection module for powershell.
-  Explore and invoke private APIs like nobody is watching.
-  Useful for security research, testing and quick hacks.
-
 ## Package Managers
 
 - [PsGet](http://psget.net/) - Set of commands to install modules from central directory, local file or from the web.
@@ -117,16 +111,6 @@
 - [PSReflect](https://github.com/mattifestation/PSReflect) - Easily define in-memory enums, structs, and Win32 functions in PowerShell.
   Useful for attacks, [example](https://github.com/FuzzySecurity/PowerShell-Suite/tree/master/Bypass-UAC).
 
-## SharePoint
-
-- [AutoSPInstaller](https://autospinstaller.codeplex.com/) - Automated SharePoint 2010/2013 installation script.
-- [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) - API for SharePoint 2010, 2013 and Online.
-
-## SQL Server
-
-- [dbareports](https://dbareports.io) - Gather, store and display your SQL Server estate data.
-- [dbatools](https://dbatools.io) - Instance migrations and best practice implementations.
-
 ## Testing
 
 - [Pester](https://github.com/pester/Pester) - Powershell BDD style testing framework.
@@ -151,3 +135,19 @@
 - [NancyPS](https://github.com/Jaykul/NancyPS) - Nancy, self-hosted in PowerShell, with script method handlers.
 - [PoSH Server](http://www.poshserver.net/) - Secure, flexible and lightweight web server to meet your requirements.
 - [WebCommander](https://github.com/vmware/webcommander) - Run scripts and view results, in a friendly web GUI or via a web service.
+
+## SharePoint
+
+- [AutoSPInstaller](https://autospinstaller.codeplex.com/) - Automated SharePoint 2010/2013 installation script.
+- [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) - API for SharePoint 2010, 2013 and Online.
+
+## SQL Server
+
+- [dbareports](https://dbareports.io) - Gather, store and display your SQL Server estate data.
+- [dbatools](https://dbatools.io) - Instance migrations and best practice implementations.
+
+## Misc
+
+- [poke](https://github.com/oising/poke) - Crazy cool reflection module for powershell.
+  Explore and invoke private APIs like nobody is watching.
+  Useful for security research, testing and quick hacks.
