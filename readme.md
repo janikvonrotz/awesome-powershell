@@ -91,6 +91,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Package Managers
 
+- [PowershellGet](https://github.com/powershell/powershellget) - PowerShellGet is the Package Manager for PowerShell https://www.PowerShellGallery.com 
 - [PsGet](http://psget.net/) - Set of commands to install modules from central directory, local file or from the web.
 - [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
 
