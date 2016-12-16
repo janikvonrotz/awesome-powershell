@@ -166,3 +166,4 @@ It includes a command-line shell and an associated scripting language.
 - [poke](https://github.com/oising/poke) - Crazy cool reflection module for powershell.
   Explore and invoke private APIs like nobody is watching.
   Useful for security research, testing and quick hacks.
+- [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell. 
