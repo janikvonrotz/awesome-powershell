@@ -71,6 +71,7 @@ It includes a command-line shell and an associated scripting language.
 - [Zlocation](https://github.com/vors/ZLocation) - [z.sh](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
 - [pslinq](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for Powershell.
+- [posh-with](https://github.com/JanJoris/posh-with) - Command prefixing for continuous workflow using a single tool. 
 
 ## Communities
 
