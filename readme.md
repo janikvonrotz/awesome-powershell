@@ -9,6 +9,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Contents
 
+* [API Wrapper](#api-wrapper)
 * [Blogs](#blogs)
 * [Build Tools](#build-tools)
 * [Code and Package Repositories](#code-and-package-repositories)
@@ -27,6 +28,15 @@ It includes a command-line shell and an associated scripting language.
 * [SharePoint](#sharepoint)
 * [SQL Server](#sql-server)
 * [Misc](#misc)
+
+## API Wrapper
+
+- [PSGitHub](https://github.com/pcgeek86/PSGitHub) - This PowerShell module contains commands to manage GitHub through its REST API. 
+- [Posh-Github](https://github.com/Iristyle/Posh-GitHub) - Powershell cmdlets that expose the GitHub API.
+- [Posh-Gist](https://github.com/dfinke/Posh-Gist) - PowerShell cmdlets for interacting with GitHub Gist.
+- [PSGist](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists. http://dotps1.github.io/PSGist.
+- [PSAppVeyor](https://github.com/dotps1/PSAppVeyor) - A PowerShell Module to interact with the AppVeyor REST Api.
+
 
 ## Blogs
 
