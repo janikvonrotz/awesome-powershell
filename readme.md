@@ -15,6 +15,7 @@ It includes a command-line shell and an associated scripting language.
 * [Code and Package Repositories](#code-and-package-repositories)
 * [Commandline Productivity](#commandline-productivity)
 * [Communities](#communities)
+* [Documentation Helper](#documentation-helper)
 * [Frameworks](#frameworks)
 * [Editors and IDEs](#editors-and-ides)
 * [Package Managers](#package-managers)
@@ -80,6 +81,11 @@ It includes a command-line shell and an associated scripting language.
 - [/r/PowerShell](http://www.reddit.com/r/powershell) - Reddit PowerShell community.
 - [Slack PowerShell team](http://slack.poshcode.org/) - Large chat room dedicated to PowerShell. Bridged with `#PowerShell` on irc.freenode.net.
 - [Twitter #PowerShell](https://twitter.com/search?q=%23PowerShell&src=hash) - Vibrant PowerShell community; great way to keep up with news and blog content.
+
+## Documentation Helper
+
+- [platyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown.
+- [Invoke-CreateModuleHelpFile](https://github.com/gravejester/Invoke-CreateModuleHelpFile) - PowerShell function to create a HTML help file for a module and all it's commands. 
 
 ## Editors and IDEs
 
