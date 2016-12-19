@@ -37,6 +37,7 @@ It includes a command-line shell and an associated scripting language.
 - [Posh-Gist](https://github.com/dfinke/Posh-Gist) - PowerShell cmdlets for interacting with GitHub Gist.
 - [PSGist](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists. http://dotps1.github.io/PSGist.
 - [PSAppVeyor](https://github.com/dotps1/PSAppVeyor) - A PowerShell Module to interact with the AppVeyor REST Api.
+- [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) - PowerShell module for simple Slack integration http://ramblingcookiemonster.github.io/PSSlack/
 
 
 ## Blogs
