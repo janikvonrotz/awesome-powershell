@@ -9,11 +9,13 @@ It includes a command-line shell and an associated scripting language.
 
 ## Contents
 
+* [API Wrapper](#api-wrapper)
 * [Blogs](#blogs)
 * [Build Tools](#build-tools)
 * [Code and Package Repositories](#code-and-package-repositories)
 * [Commandline Productivity](#commandline-productivity)
 * [Communities](#communities)
+* [Documentation Helper](#documentation-helper)
 * [Frameworks](#frameworks)
 * [Editors and IDEs](#editors-and-ides)
 * [Package Managers](#package-managers)
@@ -27,6 +29,15 @@ It includes a command-line shell and an associated scripting language.
 * [SharePoint](#sharepoint)
 * [SQL Server](#sql-server)
 * [Misc](#misc)
+
+## API Wrapper
+
+- [PSGitHub](https://github.com/pcgeek86/PSGitHub) - This PowerShell module contains commands to manage GitHub through its REST API. 
+- [Posh-Github](https://github.com/Iristyle/Posh-GitHub) - Powershell cmdlets that expose the GitHub API.
+- [Posh-Gist](https://github.com/dfinke/Posh-Gist) - PowerShell cmdlets for interacting with GitHub Gist.
+- [PSGist](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists. http://dotps1.github.io/PSGist.
+- [PSAppVeyor](https://github.com/dotps1/PSAppVeyor) - A PowerShell Module to interact with the AppVeyor REST Api.
+
 
 ## Blogs
 
@@ -61,6 +72,7 @@ It includes a command-line shell and an associated scripting language.
 - [Zlocation](https://github.com/vors/ZLocation) - [z.sh](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
 - [pslinq](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for Powershell.
+- [posh-with](https://github.com/JanJoris/posh-with) - Command prefixing for continuous workflow using a single tool. 
 
 ## Communities
 
@@ -69,6 +81,11 @@ It includes a command-line shell and an associated scripting language.
 - [/r/PowerShell](http://www.reddit.com/r/powershell) - Reddit PowerShell community.
 - [Slack PowerShell team](http://slack.poshcode.org/) - Large chat room dedicated to PowerShell. Bridged with `#PowerShell` on irc.freenode.net.
 - [Twitter #PowerShell](https://twitter.com/search?q=%23PowerShell&src=hash) - Vibrant PowerShell community; great way to keep up with news and blog content.
+
+## Documentation Helper
+
+- [platyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown.
+- [Invoke-CreateModuleHelpFile](https://github.com/gravejester/Invoke-CreateModuleHelpFile) - PowerShell function to create a HTML help file for a module and all it's commands. 
 
 ## Editors and IDEs
 
@@ -91,6 +108,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Package Managers
 
+- [PowershellGet](https://github.com/powershell/powershellget) - PowerShellGet is the Package Manager for PowerShell https://www.PowerShellGallery.com 
 - [PsGet](http://psget.net/) - Set of commands to install modules from central directory, local file or from the web.
 - [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
 
@@ -154,3 +172,4 @@ It includes a command-line shell and an associated scripting language.
 - [poke](https://github.com/oising/poke) - Crazy cool reflection module for powershell.
   Explore and invoke private APIs like nobody is watching.
   Useful for security research, testing and quick hacks.
+- [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell. 
