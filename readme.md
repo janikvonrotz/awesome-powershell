@@ -11,6 +11,7 @@ It includes a command-line shell and an associated scripting language.
 
 * [API Wrapper](#api-wrapper)
 * [Blogs](#blogs)
+* [Books](#books)
 * [Build Tools](#build-tools)
 * [Code and Package Repositories](#code-and-package-repositories)
 * [Commandline Productivity](#commandline-productivity)
