@@ -147,6 +147,7 @@ It includes a command-line shell and an associated scripting language.
 ## Testing
 
 - [Pester](https://github.com/pester/Pester) - Powershell BDD style testing framework.
+- [Format-Pester](https://github.com/equelin/format-pester) - Powershell module for documenting Pester's results - exports Pester results to HTML, Word, text files using [PScribo](https://github.com/iainbrighton/PScribo) 
 
 ## Themes
 
