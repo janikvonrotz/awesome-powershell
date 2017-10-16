@@ -70,7 +70,6 @@ It includes a command-line shell and an associated scripting language.
 ## Code and Package Repositories
 
 - [GitHub](https://github.com/search?l=powershell&q=stars%3A%3E1&s=stars&type=Repositories) - Looking for an Open Source PowerShell project? It's probably here.
-- [PowerShell Code Repository](http://poshcode.org/) - Wide variety of PowerShell code from snippets to modules.
 - [PowerShell Gallery](https://www.powershellgallery.com/) - Offical PowerShell package repository, used by PowerShellGet.
 - [TechNet Gallery](https://gallery.technet.microsoft.com/) - Wide variety of PowerShell code from snippets to modules.
 
