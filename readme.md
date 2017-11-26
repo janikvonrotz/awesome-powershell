@@ -37,6 +37,7 @@ It includes a command-line shell and an associated scripting language.
 - [PSGitHub](https://github.com/pcgeek86/PSGitHub) - This PowerShell module contains commands to manage GitHub through its REST API. 
 - [Posh-Github](https://github.com/Iristyle/Posh-GitHub) - Powershell cmdlets that expose the GitHub API.
 - [Posh-Gist](https://github.com/dfinke/Posh-Gist) - PowerShell cmdlets for interacting with GitHub Gist.
+- [posh-vsts-cli](https://github.com/RamblingCookieMonster/PSSlack) - Wraps the [vsts-cli](https://github.com/Microsoft/vsts-cli), converts the output to structured objects and adds tab completion to it.
 - [PSGist](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists.
 - [PSAppVeyor](https://github.com/dotps1/PSAppVeyor) - A PowerShell Module to interact with the AppVeyor REST Api.
 - [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) - PowerShell module for simple Slack integration.
