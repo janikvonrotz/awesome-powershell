@@ -114,7 +114,7 @@ It includes a command-line shell and an associated scripting language.
 
 - [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
 - [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerfull server management framework.
-- [PSCX](https://pscx.codeplex.com/) - Useful set of additional cmdlets.
+- [PSCX](https://github.com/Pscx/Pscx) - PowerShell Community Extensions - Useful set of additional cmdlets.
 
 ## Package Managers
 
