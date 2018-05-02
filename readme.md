@@ -84,6 +84,7 @@ It includes a command-line shell and an associated scripting language.
 - [posh-with](https://github.com/JanJoris/posh-with) - Command prefixing for continuous workflow using a single tool.
 - [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7) - [peco](https://github.com/peco/peco) implementation. Interactive filtering tool.
 - [PSDirTag](https://github.com/wtjones/PSDirTag) - DirTags are relative paths that appear as variables in the Powershell prompt that update as you navigate. Saves keystrokes when navigating folder structures.
+- [cd-extras](https://github.com/nickcox/cd-extras) - Set of conveniences for the `cd` command including `cd+`, `cd-`, `AUTO_CD`, `CD_PATH` and the like.
 
 ## Communities
 
