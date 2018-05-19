@@ -167,6 +167,7 @@ It includes a command-line shell and an associated scripting language.
 - [Flancy](https://github.com/toenuff/flancy) - Web microframework for Windows PowerShell.
 - [NancyPS](https://github.com/Jaykul/NancyPS) - Nancy, self-hosted in PowerShell, with script method handlers.
 - [PoSH Server](http://www.poshserver.net/) - Secure, flexible and lightweight web server to meet your requirements.
+- [Polaris](https://github.com/PowerShell/Polaris) - A cross-platform, minimalist web framework for PowerShell
 - [WebCommander](https://github.com/vmware/webcommander) - Run scripts and view results, in a friendly web GUI or via a web service.
 
 ## SharePoint
