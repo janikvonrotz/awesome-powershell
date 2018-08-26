@@ -19,6 +19,7 @@ It includes a command-line shell and an associated scripting language.
 * [Documentation Helper](#documentation-helper)
 * [Frameworks](#frameworks)
 * [Editors and IDEs](#editors-and-ides)
+* [Module Development Templates](#module-development-templates)
 * [Package Managers](#package-managers)
 * [Parallel Processing](#parallel-processing)
 * [Podcasts](#podcasts)
@@ -84,6 +85,7 @@ It includes a command-line shell and an associated scripting language.
 - [posh-with](https://github.com/JanJoris/posh-with) - Command prefixing for continuous workflow using a single tool.
 - [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7) - [peco](https://github.com/peco/peco) implementation. Interactive filtering tool.
 - [PSDirTag](https://github.com/wtjones/PSDirTag) - DirTags are relative paths that appear as variables in the Powershell prompt that update as you navigate. Saves keystrokes when navigating folder structures.
+- [PSUtil](https://github.com/PowershellFrameworkCollective/PSUtil) - Designed to make the user's console life more convenient. It includes shortcuts, aliases, keybindings and convenience functions geared towards greater efficiency and less typing.
 
 ## Communities
 
@@ -110,11 +112,16 @@ It includes a command-line shell and an associated scripting language.
 - [SublimeText package](https://github.com/SublimeText/PowerShell) - PowerShell language support for Sublime Text.
 - [Atom package](https://github.com/jugglingnutcase/language-powershell) - PowerShell language support for Atom.
 
+## Module Development Templates
+- [Plaster](https://github.com/PowerShell/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
+- [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Get started using module templates in 2 minutes with this module's low entry barrier and casual convenience.
+
 ## Frameworks
 
 - [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
 - [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerfull server management framework.
 - [PSCX](https://github.com/Pscx/Pscx) - PowerShell Community Extensions - Useful set of additional cmdlets.
+- [PSFramework](https://github.com/PowershellFrameworkCollective/psframework) - Easily add configurations, logging and more to your own PowerShell module.
 
 ## Package Managers
 
@@ -142,6 +149,7 @@ It includes a command-line shell and an associated scripting language.
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - Post-exploitation framework.
 - [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - Post-exploitation agent.
 - [PSReflect](https://github.com/mattifestation/PSReflect) - Easily define in-memory enums, structs, and Win32 functions in PowerShell. Useful for attacks, [example](https://github.com/FuzzySecurity/PowerShell-Suite/tree/master/Bypass-UAC).
+- [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Easily identify highly complex attack paths that would otherwise be impossible to quickly identify. 
 
 ## Testing
 
@@ -175,11 +183,12 @@ It includes a command-line shell and an associated scripting language.
 
 - [AutoSPInstaller](https://autospinstaller.codeplex.com/) - Automated SharePoint 2010/2013 installation script.
 - [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) - API for SharePoint 2010, 2013 and Online.
+- [SPReplicator](https://github.com/potatoqualitee/SPReplicator) - SPReplicator helps replicate SharePoint list data to/from CSV, SQL Server, SharePoint itself and more.
 
 ## SQL Server
 
-- [dbareports](https://dbareports.io) - Gather, store and display your SQL Server estate data.
-- [dbatools](https://dbatools.io) - Instance migrations and best practice implementations.
+- [dbachecks](https://dbachecks.io) - SQL Server Environmental Validation (crowdsourced SQL Server DBA Checklists)
+- [dbatools](https://dbatools.io) - Helps SQL Server Pros be more productive with instance migrations and much more.
 
 ## Misc
 
