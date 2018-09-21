@@ -41,6 +41,8 @@ It includes a command-line shell and an associated scripting language.
 - [PSGist](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists.
 - [PSAppVeyor](https://github.com/dotps1/PSAppVeyor) - A PowerShell Module to interact with the AppVeyor REST Api.
 - [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) - PowerShell module for simple Slack integration.
+- [ConfluencePS](https://atlassianps.org/module/ConfluencePS/) - A module for interacting with Atlassian's Confluence in powershell (by using the API).
+- [JiraPS](https://atlassianps.org/module/JiraPS/) - A module for interacting with Atlassian's Jira in powershell (by using the API).
 
 ## Blogs
 
