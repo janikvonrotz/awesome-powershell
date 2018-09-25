@@ -131,6 +131,7 @@ It includes a command-line shell and an associated scripting language.
 ## Podcasts
 
 - [PowerScripting](https://powershell.org/podcast/) - Weekly show run by Jon Walz and Hal Rottenberg.
+- [PSPowerHour](https://github.com/PSPowerHour/PSPowerHour) - Weekly community lightning talks.
 
 ## Security
 
