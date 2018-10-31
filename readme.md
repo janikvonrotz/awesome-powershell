@@ -91,7 +91,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Communities
 
-- [PowerShell.com](http://powershell.com/cs/) - Forums, blog posts, and more.
+- [PowerShell.com](http://powershell.com/) - Forums, blog posts, and more.
 - [PowerShell.org](http://powershell.org/) - Forums, summits, community blog posts, and more.
 - [/r/PowerShell](http://www.reddit.com/r/powershell) - Reddit PowerShell community.
 - [Slack PowerShell team](http://slack.poshcode.org/) - Large chat room dedicated to PowerShell. Bridged with `#PowerShell` on irc.freenode.net.
