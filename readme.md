@@ -9,28 +9,30 @@ It includes a command-line shell and an associated scripting language.
 
 ## Contents
 
-* [API Wrapper](#api-wrapper)
-* [Blogs](#blogs)
-* [Books](#books)
-* [Build Tools](#build-tools)
-* [Code and Package Repositories](#code-and-package-repositories)
-* [Commandline Productivity](#commandline-productivity)
-* [Communities](#communities)
-* [Documentation Helper](#documentation-helper)
-* [Frameworks](#frameworks)
-* [Editors and IDEs](#editors-and-ides)
-* [Module Development Templates](#module-development-templates)
-* [Package Managers](#package-managers)
-* [Parallel Processing](#parallel-processing)
-* [Podcasts](#podcasts)
-* [Security](#security)
-* [Testing](#testing)
-* [Themes](#themes)
-* [Videos](#videos)
-* [Webserver](#webserver)
-* [SharePoint](#sharepoint)
-* [SQL Server](#sql-server)
-* [Misc](#misc)
+- [Awesome PowerShell ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-powershell-awesomehttpsgithubcomsindresorhusawesome)
+  - [Contents](#contents)
+  - [API Wrapper](#api-wrapper)
+  - [Blogs](#blogs)
+  - [Books](#books)
+  - [Build Tools](#build-tools)
+  - [Code and Package Repositories](#code-and-package-repositories)
+  - [Commandline Productivity](#commandline-productivity)
+  - [Communities](#communities)
+  - [Documentation Helper](#documentation-helper)
+  - [Editors and IDEs](#editors-and-ides)
+  - [Module Development Templates](#module-development-templates)
+  - [Frameworks](#frameworks)
+  - [Package Managers](#package-managers)
+  - [Parallel Processing](#parallel-processing)
+  - [Podcasts](#podcasts)
+  - [Security](#security)
+  - [Testing](#testing)
+  - [Themes](#themes)
+  - [Videos](#videos)
+  - [Webserver](#webserver)
+  - [SharePoint](#sharepoint)
+  - [SQL Server](#sql-server)
+  - [Misc](#misc)
 
 ## API Wrapper
 
@@ -60,6 +62,7 @@ It includes a command-line shell and an associated scripting language.
 - [Windows PowerShell in Action, Third Edition](https://www.manning.com/books/windows-powershell-in-action-third-edition) - The latest revision of the comprehensive reference guide.
 - [Learn Windows PowerShell in a Month of Lunches, Third Edition](https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-third-edition) - An innovative tutorial designed for busy IT professionals. Just set aside one hour a day - lunchtime would be perfect - for a month, and you'll be automating Windows tasks faster than you ever thought possible.
 - [Learn PowerShell Scripting in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches) - A guide to the process of developing, testing, and deploying scripts, and the art of toolmaking.
+- [Windows PowerShell Cookbook, Third Edition](http://shop.oreilly.com/product/0636920024132.do) - This comprehensive cookbook includes hands-on recipes for common tasks and administrative jobs; also includes references to technologies used in conjunction with PowerShell, including format specifiers and frequently referenced registry keys to selected .NET, COM, and WMI.
 
 ## Build Tools
 
