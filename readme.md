@@ -44,6 +44,7 @@ It includes a command-line shell and an associated scripting language.
 - [ConfluencePS](https://atlassianps.org/module/ConfluencePS/) - A module for interacting with Atlassian's Confluence in powershell (by using the API).
 - [JiraPS](https://atlassianps.org/module/JiraPS/) - A module for interacting with Atlassian's Jira in powershell (by using the API).
 - [AzureDevOps](https://github.com/mehmetseckin/azuredevops-powershell) - A PowerShell module to interact with the Azure DevOps REST API.
+- [vsteam](https://github.com/DarqueWarrior/vsteam) - A comprehensive PowerShell module for accessing TFS and VSTS.
 
 ## Blogs
 
