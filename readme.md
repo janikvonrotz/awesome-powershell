@@ -43,10 +43,10 @@ It includes a command-line shell and an associated scripting language.
 - [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) - PowerShell module for simple Slack integration.
 - [ConfluencePS](https://atlassianps.org/module/ConfluencePS/) - A module for interacting with Atlassian's Confluence in powershell (by using the API).
 - [JiraPS](https://atlassianps.org/module/JiraPS/) - A module for interacting with Atlassian's Jira in powershell (by using the API).
-- [AzureDevOps](https://github.com/mehmetseckin/azuredevops-powershell) - A PowerShell module to interact with the Azure DevOps REST API.
-- [vsteam](https://github.com/DarqueWarrior/vsteam) - A comprehensive PowerShell module for accessing TFS and VSTS.
-- [AzurePipelinesPS](https://github.com/Dejulia489/AzurePipelinesPS) - A PowerShell module that makes interfacing with Azure Pipelines a little easier.
-- [AzureDevOpsPowerShell](https://github.com/rfennell/AzureDevOpsPowershell) - A selection of PowerShell scripts that make use of the Azure DevOps (TFS/VSTS) APIs.
+- [AzureDevOps](https://github.com/mehmetseckin/azuredevops-powershell) - A module to interact with the Azure DevOps REST API.
+- [vsteam](https://github.com/DarqueWarrior/vsteam) - A comprehensive module for accessing TFS and VSTS.
+- [AzurePipelinesPS](https://github.com/Dejulia489/AzurePipelinesPS) - A module that makes interfacing with Azure Pipelines a little easier.
+- [AzureDevOpsPowerShell](https://github.com/rfennell/AzureDevOpsPowershell) - A selection of scripts that make use of the Azure DevOps (TFS/VSTS) APIs.
 
 ## Blogs
 
