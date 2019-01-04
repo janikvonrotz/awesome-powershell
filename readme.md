@@ -45,6 +45,7 @@ It includes a command-line shell and an associated scripting language.
 - [JiraPS](https://atlassianps.org/module/JiraPS/) - A module for interacting with Atlassian's Jira in powershell (by using the API).
 - [AzureDevOps](https://github.com/mehmetseckin/azuredevops-powershell) - A PowerShell module to interact with the Azure DevOps REST API.
 - [vsteam](https://github.com/DarqueWarrior/vsteam) - A comprehensive PowerShell module for accessing TFS and VSTS.
+- [AzurePipelinesPS](https://github.com/Dejulia489/AzurePipelinesPS) - A PowerShell module that makes interfacing with Azure Pipelines a little easier.
 
 ## Blogs
 
