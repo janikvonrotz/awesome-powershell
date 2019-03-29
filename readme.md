@@ -133,6 +133,7 @@ It includes a command-line shell and an associated scripting language.
 - [PsGet](http://psget.net/) - Set of commands to install modules from central directory, local file or from the web.
 - [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
 - [GitLab](https://github.com/akamac/GitLabProvider) - Use a GitLab server as Package Provider.
+- [Scoop](https://scoop.sh) - A command-line installer for Windows.  Installs packages within user directory, so no need for UAC prompts.
 
 ## Parallel Processing
 
