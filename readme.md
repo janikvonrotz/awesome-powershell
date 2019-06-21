@@ -47,6 +47,7 @@ It includes a command-line shell and an associated scripting language.
 - [vsteam](https://github.com/DarqueWarrior/vsteam) - A comprehensive module for accessing TFS and VSTS.
 - [AzurePipelinesPS](https://github.com/Dejulia489/AzurePipelinesPS) - A module that makes interfacing with Azure Pipelines a little easier.
 - [AzureDevOpsPowerShell](https://github.com/rfennell/AzureDevOpsPowershell) - A selection of scripts that make use of the Azure DevOps (TFS/VSTS) APIs.
+- [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) - PowerShell Module for Telegram APIs
 
 ## Blogs
 
@@ -54,6 +55,7 @@ It includes a command-line shell and an associated scripting language.
 - [Hey, Scripting Guy! Blog](http://blogs.technet.com/b/heyscriptingguy/) - Popular Microsoft blog.
 - [Learn Powershell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox who moderated for the Scripting Guy.
 - [PowerShellMagazine](http://www.powershellmagazine.com/) - Awesome magazine.
+- [PowerShellExplained](https://powershellexplained.com) - Personal blog of Kevin Marquette
 - [Doug Finke](https://dfinke.github.io/#blog) - Author of [PowerShell for Developers](http://shop.oreilly.com/product/0636920024491.do).
 - [Mike F. Robbins](http://mikefrobbins.com/) - Microsoft MVP. SAPIEN Tech MVP. Co-author of Windows PowerShell TFM 4th Edition.
 
@@ -180,8 +182,7 @@ It includes a command-line shell and an associated scripting language.
 ## Webserver
 
 - [Flancy](https://github.com/toenuff/flancy) - Web microframework for Windows PowerShell.
-- [NancyPS](https://github.com/Jaykul/NancyPS) - Nancy, self-hosted in PowerShell, with script method handlers.
-- [PoSH Server](http://www.poshserver.net/) - Secure, flexible and lightweight web server to meet your requirements.
+- [Pode](https://github.com/Badgerati/Pode) - Pode is a Cross-Platform PowerShell framework for creating web servers to host REST APIs, Web Sites, and TCP/SMTP Servers
 - [Polaris](https://github.com/PowerShell/Polaris) - A cross-platform, minimalist web framework for PowerShell
 - [WebCommander](https://github.com/vmware/webcommander) - Run scripts and view results, in a friendly web GUI or via a web service.
 
