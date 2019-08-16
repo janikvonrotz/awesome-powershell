@@ -69,7 +69,7 @@ It includes a command-line shell and an associated scripting language.
 * [The Big Book of PowerShell Error Handling - Dave Wyatt](https://leanpub.com/s/znHIFrvBAYRST5nFBiQU5g.pdf) - Great reference for error handling techniques.
 * [Secrets of PowerShell Remoting](https://leanpub.com/s/DQLESXQ69TlVFQ9ogjrFLw.pdf) - On all things remoting. Workflow, fan-out, etc.
 * [PowerShell Notes for Professionals](https://goalkicker.com/PowerShellBook/PowerShellNotesForProfessionals.pdf) - Compilation of notes and snippets.
-* [PowerShell Guide to Python](https://leanpub.com/PowerShell-to-Python) - **PowerShell as a segue to Python**, Learn core concepts of Python effectively and FAST! In a way that is relatable with the concepts of PowerShell you already know.
+* [PowerShell Guide to Python](https://leanpub.com/PowerShell-to-Python) - PowerShell as a segue to Python, Learn core concepts of Python effectively and FAST! In a way that is relatable with the concepts of PowerShell you already know.
 
 ## Build Tools
 
