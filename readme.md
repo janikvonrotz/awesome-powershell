@@ -200,3 +200,4 @@ It includes a command-line shell and an associated scripting language.
   Explore and invoke private APIs like nobody is watching.
   Useful for security research, testing and quick hacks.
 - [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell. 
+- [PsAppDeployKit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Provides a set of functions to perform common application deployment tasks and to interact with the user during a deployment.
