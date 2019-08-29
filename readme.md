@@ -155,6 +155,7 @@ It includes a command-line shell and an associated scripting language.
 ## Security
 
 * [File System Security](https://gallery.technet.microsoft.com/scriptcenter/1abd77a5-9c0b-4a2b-acef-90dbb2b84e85) - Allows a much easier management of permissions on files and folders.
+* [Meerkat](https://github.com/TonyPhipps/Meerkat) - Windows artifact collection for threat hunting and incident response.
 * [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) - Module used to aid a reverse engineer.
 * [PowerTools](https://github.com/Veil-Framework/PowerTools) - Collection of projects with a focus on offensive operations.
 * [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Popular live disk forensics platform for windows.
