@@ -77,6 +77,7 @@ It includes a command-line shell and an associated scripting language.
 * [PSDeploy](https://github.com/RamblingCookieMonster/PSDeploy) - Module built for the purpose of simplifying multiple types of deployments.
 * [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Variety of helper functions for CI/CD scenarios.
 * [YDeliver](https://github.com/manojlds/YDeliver) - Build and deployment framework aimed at .NET projects.
+* [AWSCBManifestPS](https://github.com/techthoughts2/AWSCBManifestPS) - Scaffolds a new PowerShell module project intended for CI/CD workflow using AWS CodeBuild.
 
 ## Code and Package Repositories
 
