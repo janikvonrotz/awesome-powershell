@@ -163,6 +163,7 @@ It includes a command-line shell and an associated scripting language.
 * [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - Post-exploitation agent.
 * [PSReflect](https://github.com/mattifestation/PSReflect) - Easily define in-memory enums, structs, and Win32 functions in PowerShell. Useful for attacks, [example](https://github.com/FuzzySecurity/PowerShell-Suite/tree/master/Bypass-UAC).
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Easily identify highly complex attack paths that would otherwise be impossible to quickly identify.
+* [Nishang](https://github.com/samratashok/nishang) - Enables scripting for red team, penetration testing, and offensive security.
 
 ## Testing
 
