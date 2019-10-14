@@ -57,6 +57,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Books
 
+* [Mastering PowerShell](https://www.bonusbits.com/uploads/Mastering-PowerShell.pdf) - a free eBook that covers everything required to become self-sufficient using PowerShell 
 * [Exploring PowerShell Automation](https://www.manning.com/books/exploring-powershell-automation) - a free eBook sampler that gives you an overview of how to administer your environment.
 * [PowerShell in Depth](https://www.manning.com/books/powershell-in-depth) - The go-to reference for administrators. Every major shell technique, technology, and tactic is explained and demonstrated, providing a comprehensive reference to almost everything an admin would do in the shell.
 * [Windows PowerShell in Action, Third Edition](https://www.manning.com/books/windows-powershell-in-action-third-edition) - The latest revision of the comprehensive reference guide.
@@ -88,6 +89,7 @@ It includes a command-line shell and an associated scripting language.
 ## Commandline Productivity
 
 * [posh-git](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration.
+* [posh-ssh](https://github.com/darkoperator/Posh-SSH) - PowerShell Module for automating tasks on remote systems using SSH
 * [PSReadLine](https://github.com/lzybkr/PSReadLine) - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
 * [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
 * [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) implementation for powershell.
@@ -215,6 +217,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Misc
 
+* [PowerShell Basic Cheat Sheet](http://ramblingcookiemonster.github.io/images/Cheat-Sheets/powershell-basic-cheat-sheet2.pdf)
 * [DbgShell](https://github.com/Microsoft/DbgShell) - A PowerShell front-end for the Windows debugger engine.
 * [poke](https://github.com/oising/poke) - Crazy cool reflection module for powershell.
   Explore and invoke private APIs like nobody is watching.
