@@ -44,6 +44,7 @@ It includes a command-line shell and an associated scripting language.
 * [ConfluencePS](https://atlassianps.org/module/ConfluencePS/) - A module for interacting with Atlassian's Confluence in powershell (by using the API).
 * [JiraPS](https://atlassianps.org/module/JiraPS/) - A module for interacting with Atlassian's Jira in powershell (by using the API).
 * [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) - PowerShell Module for Telegram APIs
+* [PSTenable](https://github.com/jwmoss/PSTenable) - Powershell Module for Nessus Tenable API
 
 ## Blogs
 
@@ -128,6 +129,7 @@ It includes a command-line shell and an associated scripting language.
 
 * [Plaster](https://github.com/PowerShell/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
 * [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Get started using module templates in 2 minutes with this module's low entry barrier and casual convenience.
+* [Stucco](https://github.com/devblackops/Stucco) - An opinionated Plaster template for high-quality PowerShell modules
 
 ## Frameworks
 
@@ -201,6 +203,7 @@ It includes a command-line shell and an associated scripting language.
 * [Pode](https://github.com/Badgerati/Pode) - Pode is a Cross-Platform PowerShell framework for creating web servers to host REST APIs, Web Sites, and TCP/SMTP Servers.
 * [Polaris](https://github.com/PowerShell/Polaris) - A cross-platform, minimalist web framework for PowerShell.
 * [WebCommander](https://github.com/vmware/webcommander) - Run scripts and view results, in a friendly web GUI or via a web service.
+* [PowerShell Universal Dashboard](https://github.com/ironmansoftware/universal-dashboard) - The most popular web framework for PowerShell. 
 
 ## SharePoint
 
