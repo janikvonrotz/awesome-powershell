@@ -44,6 +44,7 @@ It includes a command-line shell and an associated scripting language.
 * [ConfluencePS](https://atlassianps.org/module/ConfluencePS/) - A module for interacting with Atlassian's Confluence in powershell (by using the API).
 * [JiraPS](https://atlassianps.org/module/JiraPS/) - A module for interacting with Atlassian's Jira in powershell (by using the API).
 * [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) - PowerShell Module for Telegram APIs
+* [PSTeams](https://github.com/EvotecIT/PSTeams) - PowerShell module for sending formatted messages to a Microsoft Teams Channel.
 
 ## Blogs
 
