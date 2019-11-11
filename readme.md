@@ -211,8 +211,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## SQL Server
 
-* [dbachecks](https://dbachecks.io) - SQL Server Environmental Validation (crowdsourced SQL Server DBA Checklists).
-* [dbatools](https://dbatools.io) - Helps SQL Server Pros be more productive with instance migrations and much more.
+* [dbatools](https://dbachecks.io) - Helps SQL Server Pros be more productive with instance migrations and much more.
 
 ## Misc
 
