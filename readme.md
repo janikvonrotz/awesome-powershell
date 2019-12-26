@@ -148,6 +148,7 @@ It includes a command-line shell and an associated scripting language.
 
 * [PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSjobs with greater performance and less overhead to run commands in the background.
 * [Invoke-Parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) - This function will take in a script or scriptblock, and run it against specified objects(s) in parallel.
+* [SplitPipeline](https://github.com/nightroman/SplitPipeline) - Parallel data processing in PowerShell, suitable for large and even infinite input.
 
 ## Podcasts
 
