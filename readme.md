@@ -55,6 +55,7 @@ It includes a command-line shell and an associated scripting language.
 * [PowerShellExplained](https://powershellexplained.com) - Personal blog of Kevin Marquette
 * [Doug Finke](https://dfinke.github.io/#blog) - Author of [PowerShell for Developers](http://shop.oreilly.com/product/0636920024491.do).
 * [Mike F. Robbins](http://mikefrobbins.com/) - Microsoft MVP. SAPIEN Tech MVP. Co-author of Windows PowerShell TFM 4th Edition.
+* [Adam the Automator](https://adamtheautomator.com/) - Engaging, technical content on all things automation, cloud computing and DevOps by Adam Bertram and friends.
 
 ## Books
 
