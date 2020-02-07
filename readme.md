@@ -196,6 +196,21 @@ It includes a command-line shell and an associated scripting language.
 * [AD Forensics with PowerShell - Ashley McGlone](https://www.youtube.com/watch?v=VrDjiVbZZE8) - A lot of AD related scripting and analysis techniques.
 * [Windows PowerShell What's New in V2 - SAPIEN](https://www.youtube.com/watch?v=85Yrs5ezxHE&list=PL6ue9e1DXqDv74YTX91gYonfFsweNmrDK) - Old but gold. Most of this is still very relevant.
 * [All Things Microsoft PowerShell](https://www.youtube.com/watch?v=IHrGresKu2w&list=PLCGGtLsUjhm2k22nFHHdupAK0hSNZVfXi) - Another general language reference.
+* [Debugging PowerShell Modules with Pester Unit Tests in Visual Studio Code](https://youtu.be/ORgJCAhigs8) - Trevor Sullivan (2020)
+* [Handling Errors in PowerShell with Try..Catch..Finally](https://youtu.be/LFWxH-bexNk) - Trevor Sullivan (2020)
+* [Build and Throw Custom Exception Classes in PowerShell](https://youtu.be/0DNXtRK187A) - Trevor Sullivan (2019)
+* [PowerShell Remote Containers with VSCode and the Ternary Operator](https://youtu.be/sQx1zAA34Bg) - Trevor Sullivan (2019)
+* [Customize Your PowerShell Prompt with Nerd Fonts & ANSI Escape Sequences](https://youtu.be/DhzR7mbFE9I) - Trevor Sullivan (2019)
+* [Define Cross-Platform System Configuration Requirements with PowerShell](https://youtu.be/efRnjlZKCGw) - Trevor Sullivan (2019)
+* [Run PowerShell Core in Docker Containers on Raspberry Pi](https://youtu.be/xm-II3YZiqY) - Trevor Sullivan (2019)
+* [Build Static Web Content with PowerShell](https://youtu.be/jSHIKqUgANg) - Trevor Sullivan (2019)
+* [Setting User and Machine Environment Variables on Windows with PowerShell](https://youtu.be/UKZH0Zxghv8) - Trevor Sullivan (2019)
+* [Building PowerShell Functions that Support Pipeline Input](https://youtu.be/BdfVsoMVz8g) - Trevor Sullivan (2019)
+* [Exploring PowerShell Profile Scripts and Best Practices](https://youtu.be/hXMWFVaWOdU) - Trevor Sullivan (2019)
+* [Trigger Native Operating System Notifications with PowerShell](https://youtu.be/H_7c7-vJ6I8) - Trevor Sullivan (2019)
+* [Use Regular Expressions to Validate PowerShell Function Parameters](https://youtu.be/zFiB4-ZZ4cc) - Trevor Sullivan (2019)
+* [Constrain Parameter Input with PowerShell's ValidateScript Attribute](https://youtu.be/ktzldiQgUe4) - Trevor Sullivan (2019)
+
 
 ## Webserver
 
