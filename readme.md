@@ -72,6 +72,7 @@ It includes a command-line shell and an associated scripting language.
 * [The Big Book of PowerShell Error Handling - Dave Wyatt](https://leanpub.com/s/znHIFrvBAYRST5nFBiQU5g.pdf) - Great reference for error handling techniques.
 * [Secrets of PowerShell Remoting](https://leanpub.com/s/DQLESXQ69TlVFQ9ogjrFLw.pdf) - On all things remoting. Workflow, fan-out, etc.
 * [PowerShell Notes for Professionals](https://goalkicker.com/PowerShellBook/PowerShellNotesForProfessionals.pdf) - Compilation of notes and snippets.
+* [PowerShell for IT Helpdesk and Admins](https://www.amazon.com/dp/B07W8XW6K6/ref=cm_sw_em_r_mt_dp_U_3W1AEb65MH72S) - A Practical Guide for PowerShell.
 
 ## Build Tools
 
@@ -166,6 +167,7 @@ It includes a command-line shell and an associated scripting language.
 * [PSReflect](https://github.com/mattifestation/PSReflect) - Easily define in-memory enums, structs, and Win32 functions in PowerShell. Useful for attacks, [example](https://github.com/FuzzySecurity/PowerShell-Suite/tree/master/Bypass-UAC).
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Easily identify highly complex attack paths that would otherwise be impossible to quickly identify.
 * [Nishang](https://github.com/samratashok/nishang) - Enables scripting for red team, penetration testing, and offensive security.
+* [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - PowerShell Module for Threat Hunting via Windows Event Logs.
 
 ## Testing
 
