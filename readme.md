@@ -177,6 +177,7 @@ It includes a command-line shell and an associated scripting language.
 
 * [Oh-My-Posh](https://github.com/JanJoris/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme).
 * [Powerline](https://github.com/Jaykul/PowerLine) - PowerShell Classes for richer output and prompts.
+* [Starship](https://github.com/starship/starship) - The minimal, blazing fast, and extremely customizable prompt for any shell.
 
 ## Videos
 
