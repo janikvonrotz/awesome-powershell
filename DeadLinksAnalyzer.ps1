@@ -21,7 +21,12 @@
             }
         }
     }
-    # Output urls
-    return $unreachable
-    Write-Error -Message 'Dead links found'
+
+    if ($unreachable) {
+        # Output urls
+        return $unreachable
+        Write-Error -Message 'Dead links found'
+    }
 }
+
+$deadlinks = Test-MarkdownLinks -Path ".\readme.md"
