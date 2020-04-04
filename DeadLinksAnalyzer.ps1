@@ -24,4 +24,3 @@
     # Output urls
     return $unreachable
 }
-$deadlinks = Test-MarkdownLinks -Path ".\readme.md"
