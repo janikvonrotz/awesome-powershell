@@ -21,12 +21,10 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
 
-    - name: Analyze Links
-      shell: pwsh
-      run: |
-        ./DeadLinksAnalyzer.ps1
-        $deadlinks = Test-MarkdownLinks -Path ".\readme.md"
-      continue-on-error: true
+      - name: Analyze Links
+        shell: pwsh
+        run: |
+          ./DeadLinksAnalyzer.ps1

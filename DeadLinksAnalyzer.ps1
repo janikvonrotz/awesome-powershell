@@ -16,11 +16,12 @@
             try {
                 $request = Invoke-WebRequest -Uri $url
             } catch {
-                Write-Error "Found dead url $url in $fileName"
+                Write-Warning -Message "Found dead url $url in $fileName"
                 $unreachable += $url
             }
         }
     }
     # Output urls
     return $unreachable
+    Write-Error -Message 'Dead links found'
 }
