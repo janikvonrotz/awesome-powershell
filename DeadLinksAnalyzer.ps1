@@ -22,11 +22,11 @@
         }
     }
 
-    if ($unreachable) {
-        # Output urls
-        return $unreachable
-        Write-Error -Message 'Dead links found'
-    }
+    # Output urls
+    return $unreachable
 }
 
 $deadlinks = Test-MarkdownLinks -Path ".\readme.md"
+if ($deadlinks) {
+    Write-Error -Message 'Dead links found' -Category ObjectNotFound
+}
