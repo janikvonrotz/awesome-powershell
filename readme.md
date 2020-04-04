@@ -35,22 +35,22 @@ It includes a command-line shell and an associated scripting language.
 ## API Wrapper
 
 * [HipChatAdmin](https://github.com/cofonseca/HipChatAdmin) - A module for simple integration with Atlassian HipChat via the HipChat API.
-* [PSGitHub](https://github.com/pcgeek86/PSGitHub) - This PowerShell module contains commands to manage GitHub through its REST API.
-* [Posh-Github](https://github.com/Iristyle/Posh-GitHub) - Powershell cmdlets that expose the GitHub API.
-* [Posh-Gist](https://github.com/dfinke/Posh-Gist) - PowerShell cmdlets for interacting with GitHub Gist.
-* [PSGist](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists.
-* [PSAppVeyor](https://github.com/dotps1/PSAppVeyor) - A PowerShell Module to interact with the AppVeyor REST Api.
-* [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) - PowerShell module for simple Slack integration.
+* [PSGitHub](https://github.com/pcgeek86/PSGitHub) - Module contains commands to manage GitHub through its REST API.
+* [Posh-GitHub](https://github.com/Iristyle/Posh-GitHub) - Cmdlets that expose the GitHub API.
+* [Posh-Gist](https://github.com/dfinke/Posh-Gist) - Cmdlets for interacting with GitHub Gist.
+* [PSGist](https://github.com/dotps1/PSGist) - A module to work with GitHub Gists.
+* [PSAppVeyor](https://github.com/dotps1/PSAppVeyor) - A module to interact with the AppVeyor REST API.
+* [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) - Module for simple Slack integration.
 * [ConfluencePS](https://atlassianps.org/module/ConfluencePS/) - A module for interacting with Atlassian's Confluence in powershell (by using the API).
 * [JiraPS](https://atlassianps.org/module/JiraPS/) - A module for interacting with Atlassian's Jira in powershell (by using the API).
-* [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) - PowerShell Module for Telegram APIs
-* [PSTeams](https://github.com/EvotecIT/PSTeams) - PowerShell module for sending formatted messages to a Microsoft Teams Channel.
+* [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) - Module for Telegram APIs
+* [PSTeams](https://github.com/EvotecIT/PSTeams) - A module for sending formatted messages to a Microsoft Teams Channel.
 
 ## Blogs
 
 * [Windows PowerShell Blog](https://blogs.msdn.microsoft.com/powershell/) - Official PowerShell Team Blog.
 * [Hey, Scripting Guy! Blog](http://blogs.technet.com/b/heyscriptingguy/) - Popular Microsoft blog.
-* [Learn Powershell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox who moderated for the Scripting Guy.
+* [Learn PowerShell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox who moderated for the Scripting Guy.
 * [PowerShellMagazine](http://www.powershellmagazine.com/) - Awesome magazine.
 * [PowerShellExplained](https://powershellexplained.com) - Personal blog of Kevin Marquette
 * [Doug Finke](https://dfinke.github.io/#blog) - Author of [PowerShell for Developers](http://shop.oreilly.com/product/0636920024491.do).
@@ -72,7 +72,7 @@ It includes a command-line shell and an associated scripting language.
 * [The Big Book of PowerShell Error Handling - Dave Wyatt](https://leanpub.com/s/znHIFrvBAYRST5nFBiQU5g.pdf) - Great reference for error handling techniques.
 * [Secrets of PowerShell Remoting](https://leanpub.com/s/DQLESXQ69TlVFQ9ogjrFLw.pdf) - On all things remoting. Workflow, fan-out, etc.
 * [PowerShell Notes for Professionals](https://goalkicker.com/PowerShellBook/PowerShellNotesForProfessionals.pdf) - Compilation of notes and snippets.
-* [Powershell for SysAdmins: Workflow Automation Made Easy](https://nostarch.com/powershellsysadmins) - Learn how to manage and automate your desktop and server environments.
+* [PowerShell for SysAdmins: Workflow Automation Made Easy](https://nostarch.com/powershellsysadmins) - Learn how to manage and automate your desktop and server environments.
 
 ## Build Tools
 
@@ -85,7 +85,7 @@ It includes a command-line shell and an associated scripting language.
 ## Code and Package Repositories
 
 * [GitHub](https://github.com/search?l=powershell&q=stars%3A%3E1&s=stars&type=Repositories) - Looking for an Open Source PowerShell project? It's probably here.
-* [PowerShell Gallery](https://www.powershellgallery.com/) - Offical PowerShell package repository, used by PowerShellGet.
+* [PowerShell Gallery](https://www.powershellgallery.com/) - Official PowerShell package repository, used by PowerShellGet.
 * [TechNet Gallery](https://gallery.technet.microsoft.com/) - Wide variety of PowerShell code from snippets to modules.
 
 ## Commandline Productivity
@@ -93,14 +93,14 @@ It includes a command-line shell and an associated scripting language.
 * [posh-git](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration.
 * [PSReadLine](https://github.com/lzybkr/PSReadLine) - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
 * [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
-* [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) implementation for powershell.
+* [Jump-Location](https://github.com/tkellogg/Jump-Location) - PowerShell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) implementation for PowerShell.
 * [Zlocation](https://github.com/vors/ZLocation) * [z.sh](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
 * [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
-* [pslinq](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for Powershell.
+* [pslinq](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for PowerShell.
 * [posh-with](https://github.com/JanJoris/posh-with) - Command prefixing for continuous workflow using a single tool.
 * [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7)* [peco](https://github.com/peco/peco) implementation. Interactive filtering tool.
-* [PSDirTag](https://github.com/wtjones/PSDirTag) - DirTags are relative paths that appear as variables in the Powershell prompt that update as you navigate. Saves keystrokes when navigating folder structures.
-* [PSUtil](https://github.com/PowershellFrameworkCollective/PSUtil) - Designed to make the user's console life more convenient. It includes shortcuts, aliases, keybindings and convenience functions geared towards greater efficiency and less typing.
+* [PSDirTag](https://github.com/wtjones/PSDirTag) - DirTags are relative paths that appear as variables in the PowerShell prompt that update as you navigate. Saves keystrokes when navigating folder structures.
+* [PSUtil](https://github.com/PowershellFrameworkCollective/PSUtil) - Designed to make the user's console life more convenient. It includes shortcuts, aliases, key bindings and convenience functions geared towards greater efficiency and less typing.
 
 ## Communities
 
@@ -136,20 +136,20 @@ It includes a command-line shell and an associated scripting language.
 ## Frameworks
 
 * [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
-* [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerfull server management framework.
+* [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerful server management framework.
 * [PSCX](https://github.com/Pscx/Pscx) - PowerShell Community Extensions - Useful set of additional cmdlets.
 * [PSFramework](https://github.com/PowershellFrameworkCollective/psframework) - Easily add configurations, logging and more to your own PowerShell module.
 
 ## Package Managers
 
-* [PowershellGet](https://github.com/powershell/powershellget) - PowerShellGet is the Package Manager for PowerShell. Packages are available on [PowerShellGallery](https://www.PowerShellGallery.com).
+* [PowerShellGet](https://github.com/powershell/powershellget) - PowerShellGet is the Package Manager for PowerShell. Packages are available on [PowerShellGallery](https://www.PowerShellGallery.com).
 * [PsGet](http://psget.net/) - Set of commands to install modules from central directory, local file or from the web.
 * [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
 * [GitLab](https://github.com/akamac/GitLabProvider) - Use a GitLab server as Package Provider.
 
 ## Parallel Processing
 
-* [PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSjobs with greater performance and less overhead to run commands in the background.
+* [PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSJobs with greater performance and less overhead to run commands in the background.
 * [Invoke-Parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) - This function will take in a script or scriptblock, and run it against specified objects(s) in parallel.
 
 ## Podcasts
@@ -171,8 +171,8 @@ It includes a command-line shell and an associated scripting language.
 
 ## Testing
 
-* [Pester](https://github.com/pester/Pester) - Powershell BDD style testing framework.
-* [Format-Pester](https://github.com/equelin/format-pester) - Powershell module for documenting Pester's results - exports Pester results to HTML, Word, text files using [PScribo](https://github.com/iainbrighton/PScribo).
+* [Pester](https://github.com/pester/Pester) - PowerShell BDD style testing framework.
+* [Format-Pester](https://github.com/equelin/format-pester) - PowerShell module for documenting Pester's results - exports Pester results to HTML, Word, text files using [PScribo](https://github.com/iainbrighton/PScribo).
 
 ## Themes
 
@@ -187,7 +187,7 @@ It includes a command-line shell and an associated scripting language.
 * [Advanced Tools & Scripting with PowerShell 3.0](https://channel9.msdn.com/Series/advpowershell3) - IT pros, take this advanced PowerShell course to find out how to turn your real time management and automation scripts into useful reusable tools and cmdlets.
 * [What's New in PowerShell v5](https://mva.microsoft.com/en-US/training-courses/whats-new-in-powershell-v5-16434) - Through description on some of the exciting new features in PowerShell version 5.0.
 * [PowerShell Open Source Project](https://channel9.msdn.com/series/PowerShell-Open-Source-Project) - Collection of videos thoroughly demonstrate how PowerShell open source project runs on Linux.
-* [PowerShell on Linux and Open Source](https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source) - Brief introduction to PowerShell open source project and how it runs on linux.
+* [PowerShell on Linux and Open Source](https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source) - Brief introduction to PowerShell open source project and how it runs on Linux.
 * [PowerShell](https://channel9.msdn.com/Shows/MsftPowerShell) - This show will include videos talking about the PowerShell automation platform, Desired State Configuration (DSC), infrastructure as code, and related concepts!! These videos are created by Trevor Sullivan, a Microsoft MVP for Windows PowerShell.
 * [Learn Windows PowerShell in a Month of Lunches - Don Jones](https://www.youtube.com/watch?v=6CRTahGYnws&list=PL6D474E721138865A) - Video companion to the book of the same title.
 * [Best Practices for Script Design - Don Jones](https://www.youtube.com/watch?v=Lni4KjGMgu4) - Don Jones discusses script design principles and best practices.
@@ -220,7 +220,7 @@ It includes a command-line shell and an associated scripting language.
 ## Misc
 
 * [DbgShell](https://github.com/Microsoft/DbgShell) - A PowerShell front-end for the Windows debugger engine.
-* [poke](https://github.com/oising/poke) - Crazy cool reflection module for powershell.
+* [poke](https://github.com/oising/poke) - Crazy cool reflection module for PowerShell.
   Explore and invoke private APIs like nobody is watching.
   Useful for security research, testing and quick hacks.
 * [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell.
