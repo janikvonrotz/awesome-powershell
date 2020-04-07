@@ -1,7 +1,7 @@
 ﻿function Test-MarkdownLinks([String]$Path) {
     $unreachable = @()
     # Get markdown files recursively
-    $files = Get-ChildItem -Path $path -Recurse -Include "*.md"
+    $files = Get-ChildItem -Path $Path -Recurse -Include "*.md"
 
     $files | ForEach-Object {
         $fileName = $_.Name
@@ -26,7 +26,11 @@
     return $unreachable
 }
 
-$deadlinks = Test-MarkdownLinks -Path ".\readme.md"
-if ($deadlinks) {
-    Write-Error -Message 'Dead links found' -Category ObjectNotFound
+$DeadLinks = Test-MarkdownLinks -Path ".\readme.md"
+if ($DeadLinks) {
+    Write-Host -Object '--- DEAD LINKS FOUND ---' -ForegroundColor Red
+    foreach ($DeadLink in $DeadLinks) {
+        Write-Host -Object $DeadLink -ForegroundColor Red
+    }
+    exit 1
 }
