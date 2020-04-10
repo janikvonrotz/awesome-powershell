@@ -225,3 +225,4 @@ It includes a command-line shell and an associated scripting language.
   Useful for security research, testing and quick hacks.
 * [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell.
 * [Graphical](https://github.com/PrateekKumarSingh/graphical) - PowerShell Module to plot colorful console 2D Graphs (Scatter, Bar, Line).
+* [WSLab](https://github.com/microsoft/WSLab) - Windows Server rapid lab deployment scripts.
