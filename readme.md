@@ -1,4 +1,4 @@
-# Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Quality Assurance](https://github.com/janikvonrotz/awesome-powershell/workflows/Quality%20Assurance/badge.svg)
+# Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Quality Assurance](https://github.com/janikvonrotz/awesome-powershell/workflows/Quality%20Assurance/badge.svg)](https://github.com/janikvonrotz/awesome-powershell/actions?query=workflow%3A%22Quality+Assurance%22)
 
 [<img src="https://github.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" align="right" width="80">](https://msdn.microsoft.com/en-us/powershell/)
 
@@ -45,6 +45,7 @@ It includes a command-line shell and an associated scripting language.
 * [JiraPS](https://atlassianps.org/module/JiraPS/) - A module for interacting with Atlassian's Jira in powershell (by using the API).
 * [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) - Module for Telegram APIs
 * [PSTeams](https://github.com/EvotecIT/PSTeams) - A module for sending formatted messages to a Microsoft Teams Channel.
+* [PSURLScanio](https://github.com/sysgoblin/PSURLScanio) - A module for [urlscan.io](https://urlscan.io/) that is a service to scan and analyze websites.
 
 ## Blogs
 
@@ -56,6 +57,7 @@ It includes a command-line shell and an associated scripting language.
 * [Doug Finke](https://dfinke.github.io/#blog) - Author of [PowerShell for Developers](http://shop.oreilly.com/product/0636920024491.do).
 * [Mike F. Robbins](http://mikefrobbins.com/) - Microsoft MVP. SAPIEN Tech MVP. Co-author of Windows PowerShell TFM 4th Edition.
 * [Adam the Automator](https://adamtheautomator.com/) - Engaging, technical content on all things automation, cloud computing and DevOps by Adam Bertram and friends.
+* [Clear-Script](https://vexx32.github.io/) - Personal blog of Joel (Sallow) Francis.
 
 ## Books
 
@@ -224,3 +226,4 @@ It includes a command-line shell and an associated scripting language.
   Useful for security research, testing and quick hacks.
 * [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell.
 * [Graphical](https://github.com/PrateekKumarSingh/graphical) - PowerShell Module to plot colorful console 2D Graphs (Scatter, Bar, Line).
+* [WSLab](https://github.com/microsoft/WSLab) - Windows Server rapid lab deployment scripts.
