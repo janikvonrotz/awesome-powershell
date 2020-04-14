@@ -103,7 +103,7 @@ It includes a command-line shell and an associated scripting language.
 * [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7)* [peco](https://github.com/peco/peco) implementation. Interactive filtering tool.
 * [PSDirTag](https://github.com/wtjones/PSDirTag) - DirTags are relative paths that appear as variables in the PowerShell prompt that update as you navigate. Saves keystrokes when navigating folder structures.
 * [PSUtil](https://github.com/PowershellFrameworkCollective/PSUtil) - Designed to make the user's console life more convenient. It includes shortcuts, aliases, key bindings and convenience functions geared towards greater efficiency and less typing.
-* [powershell-git-aliases](https://github.com/gluons/powershell-git-aliases) - Adds 'Oh-My-Zsh' aliases for Git commands
+* [powershell-git-aliases](https://github.com/gluons/powershell-git-aliases) - Adds '[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)' aliases for Git commands.
 
 ## Communities
 
