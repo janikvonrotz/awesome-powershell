@@ -139,6 +139,8 @@ It includes a command-line shell and an associated scripting language.
 
 ## Interactive Learning
 
+* [PSKoans](https://github.com/vexx32/PSKoans) - A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.
+
 ## Module Development Templates
 
 * [Plaster](https://github.com/PowerShell/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
