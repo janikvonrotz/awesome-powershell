@@ -9,7 +9,6 @@ It includes a command-line shell and an associated scripting language.
 
 ## Contents
 
-
 * [API Wrapper](#api-wrapper)
 * [Blogs](#blogs)
 * [Books](#books)
