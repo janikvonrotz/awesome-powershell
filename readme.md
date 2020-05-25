@@ -146,6 +146,7 @@ It includes a command-line shell and an associated scripting language.
 * [PowerShellGet](https://github.com/powershell/powershellget) - PowerShellGet is the Package Manager for PowerShell. Packages are available on [PowerShellGallery](https://www.PowerShellGallery.com).
 * [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
 * [GitLab](https://github.com/akamac/GitLabProvider) - Use a GitLab server as Package Provider.
+* [Scoop](https://scoop.sh) - A command-line installer for Windows.
 
 ## Parallel Processing
 
