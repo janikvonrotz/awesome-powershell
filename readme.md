@@ -50,7 +50,6 @@ It includes a command-line shell and an associated scripting language.
 ## Blogs
 
 * [Windows PowerShell Blog](https://blogs.msdn.microsoft.com/powershell/) - Official PowerShell Team Blog.
-* [Hey, Scripting Guy! Blog](http://blogs.technet.com/b/heyscriptingguy/) - Popular Microsoft blog.
 * [Learn PowerShell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox who moderated for the Scripting Guy.
 * [PowerShellMagazine](http://www.powershellmagazine.com/) - Awesome magazine.
 * [PowerShellExplained](https://powershellexplained.com) - Personal blog of Kevin Marquette
