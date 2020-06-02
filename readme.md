@@ -151,6 +151,7 @@ It includes a command-line shell and an associated scripting language.
 * [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
 * [GitLab](https://github.com/akamac/GitLabProvider) - Use a GitLab server as Package Provider.
 * [Scoop](https://scoop.sh) - A command-line installer for Windows.
+* [PowerShell App Deployment Toolkit](https://psappdeploytoolkit.com/) - Provides a set of functions to perform common application deployment tasks and to interact with the user during a deployment.
 
 ## Parallel Processing
 
