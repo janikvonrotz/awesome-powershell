@@ -88,6 +88,7 @@ It includes a command-line shell and an associated scripting language.
 
 * [GitHub](https://github.com/search?l=powershell&q=stars%3A%3E1&s=stars&type=Repositories) - Looking for an Open Source PowerShell project? It's probably here.
 * [PowerShell Gallery](https://www.powershellgallery.com/) - Official PowerShell package repository, used by PowerShellGet.
+* [PowerShell Test Gallery](https://poshtestgallery.com/) - A test version of the PowerShell Gallery. Useful when developing new modules.
 
 ## Commandline Productivity
 
