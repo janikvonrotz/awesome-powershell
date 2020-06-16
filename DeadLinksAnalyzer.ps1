@@ -14,7 +14,7 @@
             Write-Host "Requesting url $url"
 
             try {
-                $request = Invoke-WebRequest -Uri $url
+                $request = Invoke-WebRequest -Uri $url -DisableKeepAlive -UseBasicParsing -Method head
             } catch {
                 Write-Warning -Message "Found dead url $url in $fileName"
                 $unreachable += $url
