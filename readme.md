@@ -86,7 +86,7 @@ It includes a command-line shell and an associated scripting language.
 * [PSDeploy](https://github.com/RamblingCookieMonster/PSDeploy) - Module built for the purpose of simplifying multiple types of deployments.
 * [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Variety of helper functions for CI/CD scenarios.
 * [YDeliver](https://github.com/manojlds/YDeliver) - Build and deployment framework aimed at .NET projects.
-* [ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - A PowerShell Module to help scripters write, version, sign, package, and publish.
+* [ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - Module to help scripters write, version, sign, package, and publish.
 
 ## Code and Package Repositories
 
@@ -151,6 +151,7 @@ It includes a command-line shell and an associated scripting language.
 * [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerful server management framework.
 * [PSCX](https://github.com/Pscx/Pscx) - PowerShell Community Extensions - Useful set of additional cmdlets.
 * [PSFramework](https://github.com/PowershellFrameworkCollective/psframework) - Easily add configurations, logging and more to your own PowerShell module.
+* [Kansa](https://github.com/davehull/Kansa) - Incident response framework.
 
 ## Interactive Learning
 
@@ -159,7 +160,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Logging
 
-* [PoShLog](https://github.com/PoShLog/PoShLog) - PowerShell cross-platform, extensible logging module built upon [Serilog](https://serilog.net).
+* [PoShLog](https://github.com/PoShLog/PoShLog) - Cross-platform, extensible logging module built upon [Serilog](https://serilog.net).
 
 ## Module Development Templates
 
@@ -231,11 +232,11 @@ It includes a command-line shell and an associated scripting language.
 
 * [AnyBox](https://github.com/dm3ll3n/AnyBox) - Designed to facilitate script input/output with an easily customizable WPF window.
 * [BurntToast](https://github.com/Windos/BurntToast) - Module for creating and displaying Toast Notifications on Microsoft Windows 10.
-* [Graphical](https://github.com/PrateekKumarSingh/graphical) - PowerShell Module to plot colorful console 2D Graphs (Scatter, Bar, Line).
+* [Graphical](https://github.com/PrateekKumarSingh/graphical) - Module to plot colorful console 2D Graphs (Scatter, Bar, Line).
 * [GraphicalTools](https://github.com/PowerShell/GraphicalTools) - A module that mixes PowerShell and GUIs! - built on Avalonia and gui.cs.
-* [PS-Menu](https://github.com/chrisseroka/ps-menu) - Simple powershell module to render interactive console menu.
+* [PS-Menu](https://github.com/chrisseroka/ps-menu) - Simple module to render interactive console menu.
 * [PSWriteColor](https://github.com/EvotecIT/PSWriteColor) - Write-Color is a wrapper around Write-Host allowing you to create nice looking scripts, with colorized output.
-* [Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal.
+* [Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - Module to show file and folder icons in the terminal.
 
 ## Videos
 
@@ -274,7 +275,5 @@ It includes a command-line shell and an associated scripting language.
 * [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell.
 * [Graphical](https://github.com/PrateekKumarSingh/graphical) - PowerShell Module to plot colorful console 2D Graphs (Scatter, Bar, Line).
 * [WSLab](https://github.com/microsoft/WSLab) - Windows Server rapid lab deployment scripts.
-* [Kansa](https://github.com/davehull/Kansa) - A Powershell incident response framework.
 * [PoshBot](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework.
-* [PoShKeePass](https://github.com/PSKeePass/PoShKeePass) - PowerShell module for working with [KeePass](https://keepass.info) databases.
-* [PSWindowsUpdate](https://www.powershellgallery.com/packages/PSWindowsUpdate) - Module that contains cmdlets to manage Windows Update Client.
+* [PoShKeePass](https://github.com/PSKeePass/PoShKeePass) - Module for working with [KeePass](https://keepass.info) databases.
