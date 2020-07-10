@@ -238,6 +238,8 @@ It includes a command-line shell and an associated scripting language.
 * [PS-Menu](https://github.com/chrisseroka/ps-menu) - Simple module to render interactive console menu.
 * [PSWriteColor](https://github.com/EvotecIT/PSWriteColor) - Write-Color is a wrapper around Write-Host allowing you to create nice looking scripts, with colorized output.
 * [Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - Module to show file and folder icons in the terminal.
+* [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell.
+* [Graphical](https://github.com/PrateekKumarSingh/graphical) - PowerShell Module to plot colorful console 2D Graphs (Scatter, Bar, Line).
 
 ## Videos
 
@@ -273,8 +275,6 @@ It includes a command-line shell and an associated scripting language.
 * [poke](https://github.com/oising/poke) - Crazy cool reflection module for PowerShell.
   Explore and invoke private APIs like nobody is watching.
   Useful for security research, testing and quick hacks.
-* [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell.
-* [Graphical](https://github.com/PrateekKumarSingh/graphical) - PowerShell Module to plot colorful console 2D Graphs (Scatter, Bar, Line).
 * [WSLab](https://github.com/microsoft/WSLab) - Windows Server rapid lab deployment scripts.
 * [PoshBot](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework.
 * [PoShKeePass](https://github.com/PSKeePass/PoShKeePass) - Module for working with [KeePass](https://keepass.info) databases.
