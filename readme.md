@@ -214,6 +214,7 @@ It includes a command-line shell and an associated scripting language.
 ## SQL Server
 
 * [dbatools](https://dbachecks.io) - Helps SQL Server Pros be more productive with instance migrations and much more.
+* [SimplySql](https://github.com/mithrandyr/SimplySql) - SimplySql is a module that provides an intuitive set of cmdlets for talking to databases that abstracts the vendor specifics. The basic pattern is to connect to a database, execute one or more sql.
 
 ## Testing
 
