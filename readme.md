@@ -240,7 +240,6 @@ It includes a command-line shell and an associated scripting language.
 * [PSWriteColor](https://github.com/EvotecIT/PSWriteColor) - Write-Color is a wrapper around Write-Host allowing you to create nice looking scripts, with colorized output.
 * [Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - Module to show file and folder icons in the terminal.
 * [psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell.
-* [Graphical](https://github.com/PrateekKumarSingh/graphical) - PowerShell Module to plot colorful console 2D Graphs (Scatter, Bar, Line).
 
 ## Videos
 
