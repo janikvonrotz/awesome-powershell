@@ -50,6 +50,7 @@ It includes a command-line shell and an associated scripting language.
 * [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) - Module for Telegram APIs
 * [PSTeams](https://github.com/EvotecIT/PSTeams) - A module for sending formatted messages to a Microsoft Teams Channel.
 * [PSURLScanio](https://github.com/sysgoblin/PSURLScanio) - A module for [urlscan.io](https://urlscan.io/) that is a service to scan and analyze websites.
+* [PSZoom](https://github.com/JosephMcEvoy/PSZoom) - A Powershell wrapper to interface with the Zoom API 
 
 ## Blogs
 
