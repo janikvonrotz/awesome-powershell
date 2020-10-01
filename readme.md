@@ -50,6 +50,7 @@ It includes a command-line shell and an associated scripting language.
 * [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) - Module for Telegram APIs
 * [PSTeams](https://github.com/EvotecIT/PSTeams) - A module for sending formatted messages to a Microsoft Teams Channel.
 * [PSURLScanio](https://github.com/sysgoblin/PSURLScanio) - A module for [urlscan.io](https://urlscan.io/) that is a service to scan and analyze websites.
+* [PSIGEL](https://github.com/IGEL-Community/PSIGEL) - A module for [IGEL Technologies](https://www.igel.com/) Universal Management Suite (UMS).
 
 ## Blogs
 
