@@ -110,6 +110,7 @@ It includes a command-line shell and an associated scripting language.
 * [Microsoft.PowerShell.UnixCompleters](https://github.com/PowerShell/Modules/tree/master/Modules/Microsoft.PowerShell.UnixCompleters) - Get parameter completion for native Unix utilities. Requires zsh or bash.
 * [PSDepend](https://github.com/RamblingCookieMonster/PSDepend/) - PowerShell Dependency Handler
 * [PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - A set of of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console.
+* [PowerTab](https://github.com/jasonmarcher/PowerTab) - Powertab is an extension of the PowerShell tab expansion feature.  
 
 
 ## Communities
