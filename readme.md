@@ -110,6 +110,7 @@ It includes a command-line shell and an associated scripting language.
 * [PSDepend](https://github.com/RamblingCookieMonster/PSDepend/) - PowerShell Dependency Handler
 * [PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - A set of of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
+* [HackF5.ProfileAlias](https://github.com/hackf5/powershell-profile-alias) - Easily create persistent, parameterized, `bash`-style aliases.
 
 ## Communities
 
