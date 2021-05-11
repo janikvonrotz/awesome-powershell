@@ -53,7 +53,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Blogs
 
-* [Windows PowerShell Blog](https://blogs.msdn.microsoft.com/powershell/) - Official PowerShell Team Blog.
+* [Windows PowerShell Blog](https://devblogs.microsoft.com/powershell/) - Official PowerShell Team Blog.
 * [Learn PowerShell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox who moderated for the Scripting Guy.
 * [PowerShellMagazine](http://www.powershellmagazine.com/) - Awesome magazine.
 * [PowerShellExplained](https://powershellexplained.com) - Personal blog of Kevin Marquette
@@ -209,6 +209,7 @@ It includes a command-line shell and an associated scripting language.
 * [AutoSPInstaller](https://autospinstaller.com/) - Automated SharePoint 2010-2019 installation script.
 * [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) - API for SharePoint 2010, 2013 and Online.
 * [SPReplicator](https://github.com/potatoqualitee/SPReplicator) - SPReplicator helps replicate SharePoint list data to/from CSV, SQL Server, SharePoint itself and more.
+* [SharePoint2019Commands](https://github.com/sassdawe/SharePoint2019Commands) - PowerShell module to help you auto-load all SharePoint 2019 cmdlets.
 
 ## SQL Server
 
