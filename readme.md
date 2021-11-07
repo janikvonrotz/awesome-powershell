@@ -53,7 +53,8 @@ It includes a command-line shell and an associated scripting language.
 
 ## Blogs
 
-* [Windows PowerShell Blog](https://blogs.msdn.microsoft.com/powershell/) - Official PowerShell Team Blog.
+* [Windows PowerShell Blog](https://devblogs.microsoft.com/powershell/) - Official PowerShell Team Blog.
+* [PowerShell Community Blog](https://devblogs.microsoft.com/powershell-community/).
 * [Learn PowerShell | Achieve More](http://learn-powershell.net/) - Personal blog of Boe Prox who moderated for the Scripting Guy.
 * [PowerShellMagazine](http://www.powershellmagazine.com/) - Awesome magazine.
 * [PowerShellExplained](https://powershellexplained.com) - Personal blog of Kevin Marquette
@@ -78,6 +79,7 @@ It includes a command-line shell and an associated scripting language.
 * [Secrets of PowerShell Remoting](https://leanpub.com/s/DQLESXQ69TlVFQ9ogjrFLw.pdf) - On all things remoting. Workflow, fan-out, etc.
 * [PowerShell Notes for Professionals](https://goalkicker.com/PowerShellBook/PowerShellNotesForProfessionals.pdf) - Compilation of notes and snippets.
 * [PowerShell for SysAdmins: Workflow Automation Made Easy](https://nostarch.com/powershellsysadmins) - Learn how to manage and automate your desktop and server environments.
+* [Windows Server Automation with PowerShell Cookbook](https://smile.amazon.co.uk/Windows-Server-Automation-PowerShell-Cookbook/dp/1800568452) - Using PowerShell 7 with WIndowsx Server 2022.
 
 ## Build Tools
 
@@ -117,6 +119,7 @@ It includes a command-line shell and an associated scripting language.
 * [/r/PowerShell](http://www.reddit.com/r/powershell) - Reddit PowerShell community.
 * [Slack PowerShell team](https://poshcode.org/slack) - Large chat room dedicated to PowerShell. Bridged with `#PowerShell` on irc.freenode.net.
 * [Research Triangle PowerShell User Group](https://www.meetup.com/Research-Triangle-PowerShell-Users-Group/) - Very active PowerShell and automation user group. Meets on first and third Wednesdays. All skill levels welcome.
+* [Spiceworks PowerShell Forum](https://smile.amazon.co.uk/Windows-Server-Automation-PowerShell-Cookbook/dp/1800568452) - Active Q&A forum for PowerShell 7 and Windows PowerShell.
 
 ## Data
 
