@@ -80,6 +80,7 @@ It includes a command-line shell and an associated scripting language.
 * [PowerShell for SysAdmins: Workflow Automation Made Easy](https://nostarch.com/powershellsysadmins) - Learn how to manage and automate your desktop and server environments.
 * [Practical Automation with PowerShell](https://www.manning.com/books/practical-automation-with-powershell) - Learn how to build, organize, and share useful automations with PowerShell.
 * [Learn dbatools in a Month of Lunches](https://www.manning.com/books/learn-dbatools-in-a-month-of-lunches) - Learn how to automate SQL Server with PowerShell and the awesome dbatools module.
+* [Tiny PowerShell Projects](https://www.manning.com/books/tiny-powershell-projects) - A hands-on tutorial for system administration with PowerShell.
 
 ## Build Tools
 
