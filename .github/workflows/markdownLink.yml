@@ -4,7 +4,7 @@ on:
       - master
       - 'release/**'
 
-name: Check links for modified files
+name: Check for broken links
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
