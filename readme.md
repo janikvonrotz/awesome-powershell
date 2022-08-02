@@ -278,4 +278,4 @@ It includes a command-line shell and an associated scripting language.
 * [WSLab](https://github.com/microsoft/WSLab) - Windows Server rapid lab deployment scripts.
 * [PoshBot](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework.
 * [PoShKeePass](https://github.com/PSKeePass/PoShKeePass) - Module for working with [KeePass](https://keepass.info) databases.
-* [Explore PowerShell](https://kandi.openweaver.com/explore/powershell) - A curated list of PowerShell libraries, authors, kits, tutorials & learning resources.
+* [Explore PowerShell](https://kandi.openweaver.com/explore/powershell) - A curated list of libraries, authors, kits, tutorials & learning resources.
