@@ -61,6 +61,7 @@ It includes a command-line shell and an associated scripting language.
 * [Mike F. Robbins](http://mikefrobbins.com/) - Microsoft MVP. SAPIEN Tech MVP. Co-author of Windows PowerShell TFM 4th Edition.
 * [Adam the Automator](https://adamtheautomator.com/) - Engaging, technical content on all things automation, cloud computing and DevOps by Adam Bertram and friends.
 * [Clear-Script](https://vexx32.github.io/) - Personal blog of Joel (Sallow) Francis.
+* [OCram85.com](https://ocram85.com) - Personal blog about PowerShell and automation in general.
 
 ## Books
 
@@ -89,6 +90,7 @@ It includes a command-line shell and an associated scripting language.
 * [PSDeploy](https://github.com/RamblingCookieMonster/PSDeploy) - Module built for the purpose of simplifying multiple types of deployments.
 * [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Variety of helper functions for CI/CD scenarios.
 * [YDeliver](https://github.com/manojlds/YDeliver) - Build and deployment framework aimed at .NET projects.
+* [DroneHelper](https://gitea.ocram85.com/OCram85/DroneHelper) - Drone + Gitea helper for testing and building PowerShell projects.
 
 ## Code and Package Repositories
 
@@ -208,6 +210,7 @@ It includes a command-line shell and an associated scripting language.
 * [PESecurity](https://github.com/NetSPI/PESecurity) - Module to check if a Windows binary (EXE/DLL) has been compiled with ASLR, DEP, SafeSEH, StrongNaming, and Authenticode.
 * [Powershellery](https://github.com/nullbind/Powershellery) - Powershell scripts used for general hackery.
 * [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) - Toolkit for Attacking SQL Server.
+* [PSCredentialStore](https://gitea.ocram85.com/OCram85/PSCredentialStore) - :closed_lock_with_key: A simple cross-platform credential manager to store and reuse multiple PSCredential objects.
 
 ## SharePoint
 
