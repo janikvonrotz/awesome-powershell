@@ -98,6 +98,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Commandline Productivity
 
+* [Dotenv](https://github.com/insomnimus/ps-dotenv) - Provides directory specific environments through .env files, similar to direnv.
 * [posh-git](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration.
 * [PSReadLine](https://github.com/lzybkr/PSReadLine) - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
 * [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
