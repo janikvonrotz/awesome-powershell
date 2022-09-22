@@ -279,6 +279,7 @@ It includes a command-line shell and an associated scripting language.
 ## Misc
 
 * [DbgShell](https://github.com/Microsoft/DbgShell) - A PowerShell front-end for the Windows debugger engine.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native PowerShell code with zero dependencies.
 * [poke](https://github.com/oising/poke) - Crazy cool reflection module for PowerShell.
   Explore and invoke private APIs like nobody is watching.
   Useful for security research, testing and quick hacks.
