@@ -101,6 +101,7 @@ It includes a command-line shell and an associated scripting language.
 * [posh-git](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration.
 * [PoshSvn](https://www.poshsvn.com/) - Apache Subversion client for PowerShell.
 * [PSReadLine](https://github.com/lzybkr/PSReadLine) - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
+* [PowerType](https://github.com/AnderssonPeter/PowerType) - Autocomplete for common cli tools like git, npm and more.
 * [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
 * [Jump-Location](https://github.com/tkellogg/Jump-Location) - PowerShell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) implementation for PowerShell. **`UNMAINTAINED`**
 * [Zlocation](https://github.com/vors/ZLocation) * [z.sh](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
