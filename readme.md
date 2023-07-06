@@ -188,6 +188,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Podcasts
 
+* [The PowerShell Podcast](https://powershellpodcast.podbean.com/) - Weekly show that highlights what makes PowerShell so great, the community.
 * [PowerScripting](https://powershell.org/category/podcast/) - Weekly show run by Jon Walz and Hal Rottenberg.
 * [The PowerShell News Podcast](https://powershellnews.podbean.com/) - This podcast is the latest news on PowerShell.
 
