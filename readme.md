@@ -240,7 +240,7 @@ It includes a command-line shell and an associated scripting language.
 * [AnyBox](https://github.com/dm3ll3n/AnyBox) - Designed to facilitate script input/output with an easily customizable WPF window.
 * [BurntToast](https://github.com/Windos/BurntToast) - Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 * [Graphical](https://github.com/PrateekKumarSingh/graphical) - Module to plot colorful console 2D Graphs (Scatter, Bar, Line).
-* [GraphicalTools](https://github.com/PowerShell/GraphicalTools) - A module that mixes PowerShell and GUIs! - built on Avalonia and gui.cs.
+* [ConsoleGuiTools](https://github.com/PowerShell/ConsoleGuiTools) - Microsoft.PowerShell.ConsoleGuiTools contains the Out-ConsoleGridView and Show-ObjectTree TUI cmdlets for viewing and filtering objects in the terminal user interface.
 * [PS-Menu](https://github.com/chrisseroka/ps-menu) - Simple module to render interactive console menu.
 * [PSWriteColor](https://github.com/EvotecIT/PSWriteColor) - Write-Color is a wrapper around Write-Host allowing you to create nice looking scripts, with colorized output.
 * [Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - Module to show file and folder icons in the terminal.
