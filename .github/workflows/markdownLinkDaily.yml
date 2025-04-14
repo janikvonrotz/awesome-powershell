@@ -1,7 +1,7 @@
 # Copyright (c) Microsoft Corporation.
 # Licensed under the MIT license.
 
-name: Awesome PowerShell Daily Markdown Link Verification
+name: Link Verification
 
 on:
   workflow_dispatch:
